@@ -21,11 +21,21 @@
 - ☁️ **[NemoClaw-Cloud](https://github.com/colygon/NemoClaw-Cloud)** - One-script setup: NemoClaw + Nemotron on Nebius GPU VMs
 - 🎙️ **[vapi-skill](https://github.com/colygon/vapi-skill)** - OpenClaw skill for Vapi voice agents
 - 🧩 **[memori-mcp](https://github.com/colygon/memori-mcp)** - Security-first MCP server exposing Memori-backed remember/recall tools for IDE agents
+- 🎨 **[MuralCanvas](https://github.com/colygon/MuralCanvas)** - Collaborative digital art platform with AI-powered (DALL-E 3) image generation
+- 🏠 **[HomeSketcher](https://github.com/colygon/HomeSketcher)** - Transforms house addresses into line art prints via Street View + Gemini AI
+- ⌚ **[Wearable-Crew-AI](https://github.com/colygon/Wearable-Crew-AI)** - Multi-agent AI platform dashboard for wearable device integrations
+- 🏓 **[PingPongPal-1](https://github.com/colygon/PingPongPal-1)** - Retro ping-pong booking, challenges, and leaderboards for Frontier Tower
+- 🎯 **[Eventsea-Dashboard](https://github.com/colygon/Eventsea-Dashboard)** - EventPilot — AI-powered event management for dev conferences and hackathons
+- 🚀 **[Eventsea-Landing-Page](https://github.com/colygon/Eventsea-Landing-Page)** - Landing page for Eventsy, AI copilot for event organizers
+- 🤖 **[NodeJS-AgentKit-1](https://github.com/colygon/NodeJS-AgentKit-1)** - Coinbase AgentKit + OpenAI agent interacting with the Polygon blockchain
+- 🔮 **[MinecraftPortal](https://github.com/colygon/MinecraftPortal)** - Omi MCP server dashboard for managing conversations and memories
 - ☕ **[muglife](https://github.com/colygon/muglife)** - QR-coded coffee mugs with AI voices that guilt-trip you into bringing them home
 - 🧺 **[laundrylobster](https://github.com/colygon/laundrylobster)** - LaundryLobster — wholesome laundry pickup + delivery
 - 📸 **[clawcam](https://github.com/colygon/clawcam)** - Clawcam — live claw machine camera feed
 - ⛓️ **[ethsf](https://github.com/colygon/ethsf)** - Ethereum SF — decentralized community calendar and hub for SF's Ethereum ecosystem
 - 📧 **[clawcamp](https://github.com/colygon/clawcamp)** - ClawCamp community platform
+- 📶 **[frontierwifi](https://github.com/colygon/frontierwifi)** - Captive portal system managing WiFi access for Frontier Tower
+- 📋 **[SlickListings](https://github.com/colygon/SlickListings)** - Pre-accelerator classifieds board for founders, mentors, and investors
 - 🧾 **[autoinvoice](https://github.com/colygon/autoinvoice)** - Automatically generate invoices based on receipts
 - 📰 **[ftreport](https://github.com/colygon/ftreport)** - Frontier Tower reports
 
@@ -126,6 +136,18 @@
 - 🌟 **[awesome-agents](https://github.com/colygon/awesome-agents)** - Curated list of AI agents
 - 🏖️ **[jakes-summer-adventure](https://github.com/colygon/jakes-summer-adventure)** - Interactive summer adventure website
 - 🐳 **[parasail-intro](https://github.com/colygon/parasail-intro)** - Building something for Parasail
+- 🦌 **[sfelks](https://github.com/colygon/sfelks)** - Full-stack web app for San Francisco Elks Lodge #3
+- 🍹 **[Yerdrink-Website](https://github.com/colygon/Yerdrink-Website)** - Yerdrink product website
+- 💬 **[Colinchat](https://github.com/colygon/Colinchat)** - Chat application
+- ☁️ **[CloudClone](https://github.com/colygon/CloudClone)** - AkashDNS marketing site — privacy-focused DNS resolver using ODoH
+- 🎪 **[EventLinkThumb](https://github.com/colygon/EventLinkThumb)** - Events showcase for VR/AI hackathons and workshops
+- 🍿 **[SeinfeldSnacks](https://github.com/colygon/SeinfeldSnacks)** - Seinfeld episode viewing + curated snack experiences platform
+- 🎉 **[seinfeldandsnacks](https://github.com/colygon/seinfeldandsnacks)** - Seinfeld-themed birthday party event registration
+- 🏢 **[SoMa-Workspace](https://github.com/colygon/SoMa-Workspace)** - SoMa workspace project
+- 🌐 **[AkashDNSClone](https://github.com/colygon/AkashDNSClone)** - AkashDNS clone
+- 📦 **[ContentCacheBroker](https://github.com/colygon/ContentCacheBroker)** - Content cache broker
+- 💰 **[StartupFinancer](https://github.com/colygon/StartupFinancer)** - Startup financing tool
+- 📚 **[DigitalLibrary](https://github.com/colygon/DigitalLibrary)** - Digital library platform
 
 ## GitHub Activity
 
