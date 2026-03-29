@@ -24,6 +24,8 @@
 
 ## Current Projects
 
+- 🌅 **[goldenhour](https://github.com/colygon/goldenhour)** - Golden hour app built with React + Vite
+- ⏳ **[waitless](https://github.com/colygon/waitless)** - Waitless — restaurant waitlist and queue management
 - 🎙️ **[vapi-skill](https://github.com/colygon/vapi-skill)** - OpenClaw skill for Vapi voice agents
 - 🧩 **[memori-mcp](https://github.com/colygon/memori-mcp)** - Security-first MCP server exposing Memori-backed remember/recall tools for IDE agents
 - 🎨 **[MuralCanvas](https://github.com/colygon/MuralCanvas)** - Collaborative digital art platform with AI-powered (DALL-E 3) image generation
@@ -40,7 +42,7 @@
 - ⛓️ **[ethsf](https://github.com/colygon/ethsf)** - Ethereum SF — decentralized community calendar and hub for SF's Ethereum ecosystem
 - 📧 **[clawcamp](https://github.com/colygon/clawcamp)** - ClawCamp community platform
 - 📶 **[frontierwifi](https://github.com/colygon/frontierwifi)** - Captive portal system managing WiFi access for Frontier Tower
-- 📋 **[SlickListings](https://github.com/colygon/SlickListings)** - Pre-accelerator classifieds board for founders, mentors, and investors
+- 📋 **[colinslist](https://github.com/colygon/colinslist)** - Pre-accelerator classifieds board for founders, mentors, and investors
 - 🧾 **[autoinvoice](https://github.com/colygon/autoinvoice)** - Automatically generate invoices based on receipts
 - 📰 **[ftreport](https://github.com/colygon/ftreport)** - Frontier Tower reports
 
