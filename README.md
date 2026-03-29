@@ -14,11 +14,16 @@
 
 > Building at the intersection of AI agents and community. Co-founder of [@openclaw](https://github.com/openclaw). Running [Frontier Tower](https://frontiertower.com) — SF's builder community. Previously founded Dispatch Labs (L1 blockchain).
 
-## Current Projects
+## Nebius AI Cloud
 
-- 🦞 **[openclaw-deploy](https://github.com/colygon/openclaw-deploy)** - Deploy OpenClaw AI agents with Token Factory and Nebius Cloud
 - 🧠 **[nebius-skill](https://github.com/colygon/nebius-skill)** - Dual-compatible Claude Code + OpenClaw skill for managing Nebius AI Cloud via CLI
 - ☁️ **[NemoClaw-Cloud](https://github.com/colygon/NemoClaw-Cloud)** - One-script setup: NemoClaw + Nemotron on Nebius GPU VMs
+- 🦞 **[openclaw-deploy](https://github.com/colygon/openclaw-deploy)** - Deploy OpenClaw AI agents with Token Factory and Nebius Cloud
+- 📅 **[ConferenceAgent](https://github.com/nebiusbuild/ConferenceAgent)** - Book meetings at conferences handling all team calendars and room assignments
+- 🌐 **[nebius-build-site](https://github.com/colygon/nebius-build-site)** - Nebius.Build SF event site
+
+## Current Projects
+
 - 🎙️ **[vapi-skill](https://github.com/colygon/vapi-skill)** - OpenClaw skill for Vapi voice agents
 - 🧩 **[memori-mcp](https://github.com/colygon/memori-mcp)** - Security-first MCP server exposing Memori-backed remember/recall tools for IDE agents
 - 🎨 **[MuralCanvas](https://github.com/colygon/MuralCanvas)** - Collaborative digital art platform with AI-powered (DALL-E 3) image generation
@@ -91,10 +96,6 @@
 - 🔔 **[alerts](https://github.com/merakimiles/alerts)** - Webhook alerts UI
 - 💬 **[chat](https://github.com/merakimiles/chat)** - Meraki AI Chat
 
-### ☁️ [Nebius Build](https://github.com/nebiusbuild)
-
-- 📅 **[ConferenceAgent](https://github.com/nebiusbuild/ConferenceAgent)** - Book meetings at conferences handling all team calendars and room assignments
-
 ### 🐙 [KubeClaw](https://github.com/KubeClaw)
 
 - 🤖 **landing-page** (closed source) - ClawdBots — pre-configured OpenClaw bots on Kubernetes
@@ -132,7 +133,6 @@
 - 🤖 **[ralphwiggum](https://github.com/colygon/ralphwiggum)** - Autonomous iterative development using CrewAI
 - 🔄 **[ralphcrew](https://github.com/colygon/ralphcrew)** - CrewAI Flows + Crews iterative dev loop
 - 🏆 **[crew-contributors](https://github.com/colygon/crew-contributors)** - CrewAI Contributors Leaderboard
-- 🌐 **[nebius-build-site](https://github.com/colygon/nebius-build-site)** - Nebius.Build SF event site
 - 🌟 **[awesome-agents](https://github.com/colygon/awesome-agents)** - Curated list of AI agents
 - 🏖️ **[jakes-summer-adventure](https://github.com/colygon/jakes-summer-adventure)** - Interactive summer adventure website
 - 🐳 **[parasail-intro](https://github.com/colygon/parasail-intro)** - Building something for Parasail
