@@ -62,7 +62,7 @@
 - 🤖 **landing-page** (closed source) - ClawdBots — pre-configured OpenClaw bots on Kubernetes
 
 
-### 🏢 [Model Context Protocol Security](https://github.com/ModelContextProtocol-Security) — MCP Servers & Projects
+### 🏢 [Model Context Protocol](https://github.com/ModelContextProtocol) — MCP Servers & Projects
 - 🔮 **[MinecraftPortal](https://github.com/colygon/MinecraftPortal)** - Omi MCP server dashboard for managing conversations and memories
 - 🧩 **[memori-mcp](https://github.com/colygon/memori-mcp)** - Security-first MCP server exposing Memori-backed remember/recall tools for IDE agents
 - 🟣 **[polygon-mcp](https://github.com/Dablclub/polygon-mcp)** - Polygon MCP server (6 stars)
