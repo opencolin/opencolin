@@ -59,9 +59,10 @@
 
 
 - 📧 **[clawcamp](https://github.com/colygon/clawcamp)** - ClawCamp community platform
-- 🤖 **landing-page** (closed source) - ClawdBots — pre-configured OpenClaw bots on Kubernetes
 - 🧺 **[laundrylobster](https://github.com/colygon/laundrylobster)** - LaundryLobster — wholesome laundry pickup + delivery
 - 📸 **[clawcam](https://github.com/colygon/clawcam)** - Clawcam — live claw machine camera feed
+- - 🤖 **landing-page** (closed source) - ClawdBots — pre-configured OpenClaw bots on Kubernetes
+
 
 ## CrewAI
 
