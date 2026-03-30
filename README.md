@@ -22,7 +22,7 @@
 - 📅 **[ConferenceAgent](https://github.com/nebiusbuild/ConferenceAgent)** - Book meetings at conferences handling all team calendars and room assignments
 - 🌐 **[nebius-build-site](https://github.com/colygon/nebius-build-site)** - Nebius.Build SF event site
 
-## Current Projects
+## Recent Projects
 
 - 🌅 **[goldenhour](https://github.com/colygon/goldenhour)** - Golden hour app built with React + Vite
 - ⏳ **[waitless](https://github.com/colygon/waitless)** - Waitless — restaurant waitlist and queue management
@@ -37,18 +37,42 @@
 - 🤖 **[NodeJS-AgentKit-1](https://github.com/colygon/NodeJS-AgentKit-1)** - Coinbase AgentKit + OpenAI agent interacting with the Polygon blockchain
 - 🔮 **[MinecraftPortal](https://github.com/colygon/MinecraftPortal)** - Omi MCP server dashboard for managing conversations and memories
 - ☕ **[muglife](https://github.com/colygon/muglife)** - QR-coded coffee mugs with AI voices that guilt-trip you into bringing them home
-- 🧺 **[laundrylobster](https://github.com/colygon/laundrylobster)** - LaundryLobster — wholesome laundry pickup + delivery
-- 📸 **[clawcam](https://github.com/colygon/clawcam)** - Clawcam — live claw machine camera feed
 - ⛓️ **[ethsf](https://github.com/colygon/ethsf)** - Ethereum SF — decentralized community calendar and hub for SF's Ethereum ecosystem
-- 📧 **[clawcamp](https://github.com/colygon/clawcamp)** - ClawCamp community platform
-- 📶 **[frontierwifi](https://github.com/colygon/frontierwifi)** - Captive portal system managing WiFi access for Frontier Tower
 - 📋 **[colinslist](https://github.com/colygon/colinslist)** - Pre-accelerator classifieds board for founders, mentors, and investors
 - 🧾 **[autoinvoice](https://github.com/colygon/autoinvoice)** - Automatically generate invoices based on receipts
-- 📰 **[ftreport](https://github.com/colygon/ftreport)** - Frontier Tower reports
+- 🌟 **[awesome-agents](https://github.com/colygon/awesome-agents)** - Curated list of AI agents
+- 🏖️ **[jakes-summer-adventure](https://github.com/colygon/jakes-summer-adventure)** - Interactive summer adventure website
+- 🦌 **[sfelks](https://github.com/colygon/sfelks)** - Full-stack web app for San Francisco Elks Lodge #3
+- 🍹 **[Yerdrink-Website](https://github.com/colygon/Yerdrink-Website)** - Yerdrink product website
+- 💬 **[Colinchat](https://github.com/colygon/Colinchat)** - Chat application
+- ☁️ **[CloudClone](https://github.com/colygon/CloudClone)** - AkashDNS marketing site — privacy-focused DNS resolver using ODoH
+- 🎪 **[EventLinkThumb](https://github.com/colygon/EventLinkThumb)** - Events showcase for VR/AI hackathons and workshops
+- 🍿 **[SeinfeldSnacks](https://github.com/colygon/SeinfeldSnacks)** - Seinfeld episode viewing + curated snack experiences platform
+- 🎉 **[seinfeldandsnacks](https://github.com/colygon/seinfeldandsnacks)** - Seinfeld-themed birthday party event registration
+- 🏢 **[SoMa-Workspace](https://github.com/colygon/SoMa-Workspace)** - SoMa workspace project
+- 🌐 **[AkashDNSClone](https://github.com/colygon/AkashDNSClone)** - AkashDNS clone
+- 📦 **[ContentCacheBroker](https://github.com/colygon/ContentCacheBroker)** - Content cache broker
+- 💰 **[StartupFinancer](https://github.com/colygon/StartupFinancer)** - Startup financing tool
+- 📚 **[DigitalLibrary](https://github.com/colygon/DigitalLibrary)** - Digital library platform
+
+### 🏢 [Dablclub](https://github.com/opeclaw) — OpenClaw projects
+
+
+- 📧 **[clawcamp](https://github.com/colygon/clawcamp)** - ClawCamp community platform
+- 🤖 **landing-page** (closed source) - ClawdBots — pre-configured OpenClaw bots on Kubernetes
+- 🧺 **[laundrylobster](https://github.com/colygon/laundrylobster)** - LaundryLobster — wholesome laundry pickup + delivery
+- 📸 **[clawcam](https://github.com/colygon/clawcam)** - Clawcam — live claw machine camera feed
+
+## CrewAI
+
+- 🐸 **[crewai-devrel](https://github.com/colygon/crewai-devrel)** - Developer relations strategy for CrewAI 
+- 🤖 **[ralphwiggum](https://github.com/colygon/ralphwiggum)** - Autonomous iterative development using CrewAI
+- 🔄 **[ralphcrew](https://github.com/colygon/ralphcrew)** - CrewAI Flows + Crews iterative dev loop
+- 🏆 **[crew-contributors](https://github.com/colygon/crew-contributors)** - CrewAI Contributors Leaderboard
 
 ## Organization Projects
 
-### 🏢 [Dablclub](https://github.com/Dablclub) — Web3 Developer Community
+### 🏢 [Dablclub](https://github.com/Dablclub) — Developer Community
 
 - 🛠️ **[dabl-kit](https://github.com/Dablclub/dabl-kit)** - AI x Onchain Kit for Polygon Builders (9 stars)
 - 🟣 **[polygon-mcp](https://github.com/Dablclub/polygon-mcp)** - Polygon MCP server (6 stars)
@@ -64,35 +88,27 @@
 - 🎓 **[dabl-kit-hedera-contracts](https://github.com/Dablclub/dabl-kit-hedera-contracts)** - Smart contracts for hackathon project on Hedera
 - 🗳️ **[polygon-farcaster-grants-frames](https://github.com/Dablclub/polygon-farcaster-grants-frames)** - Farcaster grants frames
 - 🌐 **[etherstart](https://github.com/Dablclub/etherstart)** - Ethereum starter
+- 🎪 **eventsy / eventsy-cms** (closed source) - Event management platform
 - 🧪 **dabl-ai** (closed source) - Dabl AI platform
-- 📚 **learn-admin / learn-ui / learn-api** (closed source) - Learning platform
+- 📚 **dabl-learn (closed source) - Dabl Learning platform
+
+### 🔒 [Safemode](https://github.com/safemodedev)
+
+- 🖥️ **os** (closed source) - Safemode Operating System
 
 ### 🏰 [Frontier Tower](https://github.com/frontiertower) — SF Builder Community
 
-- 🤖 **[towerbot](https://github.com/frontiertower/towerbot)** - Frontier Tower Telegram bot
-- 🎮 **[frontier-arcade](https://github.com/frontiertower/frontier-arcade)** - Community arcade
 - 🗺️ **[floorfinder](https://github.com/frontiertower/floorfinder)** - Internal maps of Frontier Tower
-- ⏳ **[timeline](https://github.com/frontiertower/timeline)** - Prototype event viewer
-- 🔐 **[oauthTest](https://github.com/frontiertower/oauthTest)** - OAuth API demo
-- 💡 **[frontier-forge](https://github.com/frontiertower/frontier-forge)** - Share & vote on ideas to improve the tower
-- 📶 **[wifi](https://github.com/frontiertower/wifi)** - WiFi portal
-- ⚔️ **[VibeCodingKnights](https://github.com/frontiertower/VibeCodingKnights)** - Game made for Vibe Coding Nights #9
-- 🎁 **[tower-perks](https://github.com/frontiertower/tower-perks)** - Perks package for Tower citizens
-- 🔗 **ft0sh** (closed source) - Link shortener (ft0.sh)
-- 🗺️ **FrontierInteractiveMap** (closed source) - 3D interactive map
-- 📬 **mailbot** (closed source) - Package scanning PWA for mail notifications
-- 🏨 **frontier-guest-checkin** (closed source) - Guest check-in system
-- 🤖 **torbo_jr_bot** (closed source) - Frontier Tower request bot
-- 🌌 **space-magic-v02** (closed source) - 3D axonometric intelligence platform with Three.js
-- 📅 **ft-events-ics-feed** (closed source) - Serverless calendar ICS feed
+- 📶 **[wifi](https://github.com/frontiertower/wifi)**
 - 📰 **frontier-tower-newsletter** (closed source) - Newsletter
+- 📰 **[ftreport](https://github.com/colygon/ftreport)** - Frontier Tower report
+- 📶 **[frontierwifi](https://github.com/colygon/frontierwifi)** - Captive portal system managing WiFi access for Frontier Tower
 
 ### 🤖 [AgentCamp](https://github.com/agentcamp)
 
 - 📋 **[awesome-agents](https://github.com/agentcamp/awesome-agents)** - Easy-mode for engineers and entrepreneurs
-- 🎪 **eventsy / eventsy-cms** (closed source) - Event management platform
 
-### 🔌 [Meraki Miles](https://github.com/merakimiles)
+### 🔌 [Cisco Meraki](https://github.com/merakimiles)
 
 - 🧩 **[mcp-server](https://github.com/merakimiles/mcp-server)** - Meraki MCP Server
 - 🔔 **[alerts](https://github.com/merakimiles/alerts)** - Webhook alerts UI
@@ -100,39 +116,10 @@
 
 ### 🐙 [KubeClaw](https://github.com/KubeClaw)
 
-- 🤖 **landing-page** (closed source) - ClawdBots — pre-configured OpenClaw bots on Kubernetes
 
 ### ⛓️ [NotOnlyEVM](https://github.com/NotOnlyEVM)
 
 - 🔀 **noevm** (closed source) - Contract-to-contract execution across chains (no EVM redeployment)
-
-### 🔒 [Safemode](https://github.com/safemodedev)
-
-- 🖥️ **os** (closed source) - Safemode Operating System
-
-## Legacy Work
-
-### Other Personal Projects
-
-- 🐸 **[crewai-devrel](https://github.com/colygon/crewai-devrel)** - Developer relations strategy for CrewAI
-- 🤖 **[ralphwiggum](https://github.com/colygon/ralphwiggum)** - Autonomous iterative development using CrewAI
-- 🔄 **[ralphcrew](https://github.com/colygon/ralphcrew)** - CrewAI Flows + Crews iterative dev loop
-- 🏆 **[crew-contributors](https://github.com/colygon/crew-contributors)** - CrewAI Contributors Leaderboard
-- 🌟 **[awesome-agents](https://github.com/colygon/awesome-agents)** - Curated list of AI agents
-- 🏖️ **[jakes-summer-adventure](https://github.com/colygon/jakes-summer-adventure)** - Interactive summer adventure website
-- 🐳 **[parasail-intro](https://github.com/colygon/parasail-intro)** - Building something for Parasail
-- 🦌 **[sfelks](https://github.com/colygon/sfelks)** - Full-stack web app for San Francisco Elks Lodge #3
-- 🍹 **[Yerdrink-Website](https://github.com/colygon/Yerdrink-Website)** - Yerdrink product website
-- 💬 **[Colinchat](https://github.com/colygon/Colinchat)** - Chat application
-- ☁️ **[CloudClone](https://github.com/colygon/CloudClone)** - AkashDNS marketing site — privacy-focused DNS resolver using ODoH
-- 🎪 **[EventLinkThumb](https://github.com/colygon/EventLinkThumb)** - Events showcase for VR/AI hackathons and workshops
-- 🍿 **[SeinfeldSnacks](https://github.com/colygon/SeinfeldSnacks)** - Seinfeld episode viewing + curated snack experiences platform
-- 🎉 **[seinfeldandsnacks](https://github.com/colygon/seinfeldandsnacks)** - Seinfeld-themed birthday party event registration
-- 🏢 **[SoMa-Workspace](https://github.com/colygon/SoMa-Workspace)** - SoMa workspace project
-- 🌐 **[AkashDNSClone](https://github.com/colygon/AkashDNSClone)** - AkashDNS clone
-- 📦 **[ContentCacheBroker](https://github.com/colygon/ContentCacheBroker)** - Content cache broker
-- 💰 **[StartupFinancer](https://github.com/colygon/StartupFinancer)** - Startup financing tool
-- 📚 **[DigitalLibrary](https://github.com/colygon/DigitalLibrary)** - Digital library platform
 
 ## GitHub Activity
 
@@ -142,7 +129,6 @@
 
 - **AI Agent Infrastructure** - Making it easy to deploy and manage AI agents at scale with OpenClaw
 - **Community Platforms** - Building tools for IRL builder communities at Frontier Tower
-- **Web3 Developer Tools** - Onchain kits, MCP servers, and hackathon starters through Dabl Club
 - **GPU Cloud Tooling** - Skills and deployment scripts for Nebius AI Cloud
 
 ## Connect
