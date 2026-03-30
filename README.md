@@ -12,7 +12,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Web3](https://img.shields.io/badge/-Web3-F16822?style=flat-square&logo=web3.js&logoColor=white)
 
-> Building at the intersection of AI agents and community. Founder of [@dablclub](https://dabl.club). Dev Advocate at Nebius [Nebius](https://nebius.com). Operations at [Frontier Tower](https://frontiertower.com) — SF's builder community.
+> Building at the intersection of AI agents and community. Founder of [@dablclub](https://dabl.club) — SF's builder community. . Dev Advocate at Nebius [Nebius](https://nebius.com). Operations at [Frontier Tower](https://frontiertower.com) Ambassador Captain at [Omi](https://omi.me). 
 
 ## Nebius AI Cloud
 
@@ -29,7 +29,6 @@
 - 🎙️ **[vapi-skill](https://github.com/colygon/vapi-skill)** - OpenClaw skill for Vapi voice agents
 - 🎨 **[MuralCanvas](https://github.com/colygon/MuralCanvas)** - Collaborative digital art platform with AI-powered (DALL-E 3) image generation
 - 🏠 **[HomeSketcher](https://github.com/colygon/HomeSketcher)** - Transforms house addresses into line art prints via Street View + Gemini AI
-- ⌚ **[Wearable-Crew-AI](https://github.com/colygon/Wearable-Crew-AI)** - Multi-agent AI platform dashboard for wearable device integrations
 - 🏓 **[PingPongPal-1](https://github.com/colygon/PingPongPal-1)** - Retro ping-pong booking, challenges, and leaderboards for Frontier Tower
 - 🎯 **[Eventsea-Dashboard](https://github.com/colygon/Eventsea-Dashboard)** - EventPilot — AI-powered event management for dev conferences and hackathons
 - 🚀 **[Eventsea-Landing-Page](https://github.com/colygon/Eventsea-Landing-Page)** - Landing page for Eventsy, AI copilot for event organizers
@@ -53,7 +52,6 @@
 - 💰 **[StartupFinancer](https://github.com/colygon/StartupFinancer)** - Startup financing tool
 - 📚 **[DigitalLibrary](https://github.com/colygon/DigitalLibrary)** - Digital library platform
 
-
 ### 🏢 [OpenClaw](https://github.com/opeclaw) — OpenClaw projects
 
 - 📧 **[clawcamp](https://github.com/colygon/clawcamp)** - ClawCamp community platform
@@ -68,6 +66,7 @@
 - 🟣 **[polygon-mcp](https://github.com/Dablclub/polygon-mcp)** - Polygon MCP server (6 stars)
 - 🧩 **[mcp-server](https://github.com/merakimiles/mcp-server)** - Meraki MCP Server
 
+
 ### 🔒 [MCP Security](https://github.com/ModelContextProtocol-Security) — Cloud Security Alliance Project
 - 🌐 **[modelcontextprotocol-security.io](https://github.com/ModelContextProtocol-Security/modelcontextprotocol-security.io)** - Official website and docs hub for MCP security guidance (19 stars)
 - 🛡️ **[mcpserver-audit](https://github.com/ModelContextProtocol-Security/mcpserver-audit)** - Check if MCP servers are safe before using them (14 stars)
@@ -81,6 +80,7 @@
 
 ## CrewAI
 
+- ⌚ **[Wearable-Crew-AI](https://github.com/colygon/Wearable-Crew-AI)** - Multi-agent AI platform dashboard for wearable device integrations
 - 🐸 **[crewai-devrel](https://github.com/colygon/crewai-devrel)** - Developer relations strategy for CrewAI 
 - 🤖 **[ralphwiggum](https://github.com/colygon/ralphwiggum)** - Autonomous iterative development using CrewAI
 - 🔄 **[ralphcrew](https://github.com/colygon/ralphcrew)** - CrewAI Flows + Crews iterative dev loop
