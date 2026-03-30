@@ -27,7 +27,6 @@
 - 🌅 **[goldenhour](https://github.com/colygon/goldenhour)** - Golden hour app built with React + Vite
 - ⏳ **[waitless](https://github.com/colygon/waitless)** - Waitless — restaurant waitlist and queue management
 - 🎙️ **[vapi-skill](https://github.com/colygon/vapi-skill)** - OpenClaw skill for Vapi voice agents
-- 🧩 **[memori-mcp](https://github.com/colygon/memori-mcp)** - Security-first MCP server exposing Memori-backed remember/recall tools for IDE agents
 - 🎨 **[MuralCanvas](https://github.com/colygon/MuralCanvas)** - Collaborative digital art platform with AI-powered (DALL-E 3) image generation
 - 🏠 **[HomeSketcher](https://github.com/colygon/HomeSketcher)** - Transforms house addresses into line art prints via Street View + Gemini AI
 - ⌚ **[Wearable-Crew-AI](https://github.com/colygon/Wearable-Crew-AI)** - Multi-agent AI platform dashboard for wearable device integrations
@@ -35,7 +34,6 @@
 - 🎯 **[Eventsea-Dashboard](https://github.com/colygon/Eventsea-Dashboard)** - EventPilot — AI-powered event management for dev conferences and hackathons
 - 🚀 **[Eventsea-Landing-Page](https://github.com/colygon/Eventsea-Landing-Page)** - Landing page for Eventsy, AI copilot for event organizers
 - 🤖 **[NodeJS-AgentKit-1](https://github.com/colygon/NodeJS-AgentKit-1)** - Coinbase AgentKit + OpenAI agent interacting with the Polygon blockchain
-- 🔮 **[MinecraftPortal](https://github.com/colygon/MinecraftPortal)** - Omi MCP server dashboard for managing conversations and memories
 - ☕ **[muglife](https://github.com/colygon/muglife)** - QR-coded coffee mugs with AI voices that guilt-trip you into bringing them home
 - ⛓️ **[ethsf](https://github.com/colygon/ethsf)** - Ethereum SF — decentralized community calendar and hub for SF's Ethereum ecosystem
 - 📋 **[colinslist](https://github.com/colygon/colinslist)** - Pre-accelerator classifieds board for founders, mentors, and investors
@@ -55,13 +53,20 @@
 - 💰 **[StartupFinancer](https://github.com/colygon/StartupFinancer)** - Startup financing tool
 - 📚 **[DigitalLibrary](https://github.com/colygon/DigitalLibrary)** - Digital library platform
 
-### 🏢 [Dablclub](https://github.com/opeclaw) — OpenClaw projects
 
+### 🏢 [OpenClaw](https://github.com/opeclaw) — OpenClaw projects
 
 - 📧 **[clawcamp](https://github.com/colygon/clawcamp)** - ClawCamp community platform
 - 🧺 **[laundrylobster](https://github.com/colygon/laundrylobster)** - LaundryLobster — wholesome laundry pickup + delivery
 - 📸 **[clawcam](https://github.com/colygon/clawcam)** - Clawcam — live claw machine camera feed
-- - 🤖 **landing-page** (closed source) - ClawdBots — pre-configured OpenClaw bots on Kubernetes
+- 🤖 **landing-page** (closed source) - ClawdBots — pre-configured OpenClaw bots on Kubernetes
+
+
+### 🏢 [Model Context Protocol Security](https://github.com/ModelContextProtocol-Security) — MCP Servers & Projects
+- 🔮 **[MinecraftPortal](https://github.com/colygon/MinecraftPortal)** - Omi MCP server dashboard for managing conversations and memories
+- 🧩 **[memori-mcp](https://github.com/colygon/memori-mcp)** - Security-first MCP server exposing Memori-backed remember/recall tools for IDE agents
+- 🟣 **[polygon-mcp](https://github.com/Dablclub/polygon-mcp)** - Polygon MCP server (6 stars)
+- 🧩 **[mcp-server](https://github.com/merakimiles/mcp-server)** - Meraki MCP Server
 
 
 ## CrewAI
@@ -76,7 +81,6 @@
 ### 🏢 [Dablclub](https://github.com/Dablclub) — Developer Community
 
 - 🛠️ **[dabl-kit](https://github.com/Dablclub/dabl-kit)** - AI x Onchain Kit for Polygon Builders (9 stars)
-- 🟣 **[polygon-mcp](https://github.com/Dablclub/polygon-mcp)** - Polygon MCP server (6 stars)
 - 🏕️ **[dabl-dev-camp](https://github.com/Dablclub/dabl-dev-camp)** - Developer camp (10 stars)
 - 🖼️ **[frames-polygon-tx-demo](https://github.com/Dablclub/frames-polygon-tx-demo)** - Farcaster Frames transaction demo on Polygon
 - 🏁 **[polygon-hackathon-starter](https://github.com/Dablclub/polygon-hackathon-starter)** - Starter for Polygon hackathon bounties
