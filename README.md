@@ -68,6 +68,16 @@
 - 🟣 **[polygon-mcp](https://github.com/Dablclub/polygon-mcp)** - Polygon MCP server (6 stars)
 - 🧩 **[mcp-server](https://github.com/merakimiles/mcp-server)** - Meraki MCP Server
 
+### 🔒 [MCP Security](https://github.com/ModelContextProtocol-Security) — Cloud Security Alliance Project
+- 🌐 **[modelcontextprotocol-security.io](https://github.com/ModelContextProtocol-Security/modelcontextprotocol-security.io)** - Official website and docs hub for MCP security guidance (19 stars)
+- 🛡️ **[mcpserver-audit](https://github.com/ModelContextProtocol-Security/mcpserver-audit)** - Check if MCP servers are safe before using them (14 stars)
+- 🗄️ **[audit-db](https://github.com/ModelContextProtocol-Security/audit-db)** - Community-maintained database of MCP server audit results and security assessments (7 stars)
+- 🐛 **[vulnerability-db](https://github.com/ModelContextProtocol-Security/vulnerability-db)** - Comprehensive vulnerability database for MCP servers (5 stars)
+- 🔍 **[mcpserver-finder](https://github.com/ModelContextProtocol-Security/mcpserver-finder)** - Find and evaluate MCP servers with quality, security, and safety checks
+- 🏗️ **[mcpserver-builder](https://github.com/ModelContextProtocol-Security/mcpserver-builder)** - Guided education for building secure, well-architected MCP servers
+- 🚀 **[mcpserver-operator](https://github.com/ModelContextProtocol-Security/mcpserver-operator)** - Guided operational security education for deploying MCP servers
+- 🎯 **[mcpserver-security-orchestrator](https://github.com/ModelContextProtocol-Security/mcpserver-security-orchestrator)** - Intelligent entry point to MCP security workflows
+
 
 ## CrewAI
 
