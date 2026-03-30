@@ -12,7 +12,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Web3](https://img.shields.io/badge/-Web3-F16822?style=flat-square&logo=web3.js&logoColor=white)
 
-> Building at the intersection of AI agents and community. Founder of [@dablclub](https://github.com/dablclub). Dev Advocate at Nebius [Nebius](https://nebius.com). Operations at [Frontier Tower](https://frontiertower.com) — SF's builder community.
+> Building at the intersection of AI agents and community. Founder of [@dablclub](https://dabl.club). Dev Advocate at Nebius [Nebius](https://nebius.com). Operations at [Frontier Tower](https://frontiertower.com) — SF's builder community.
 
 ## Nebius AI Cloud
 
