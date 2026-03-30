@@ -112,23 +112,6 @@
 
 ## Legacy Work
 
-### ⛓️ [Dispatch Labs](https://github.com/dispatchlabs) — L1 Blockchain Protocol
-
-- 🟢 **[disgo](https://github.com/dispatchlabs/disgo)** - Go Dispatch client (32 stars)
-- 🔍 **[scanner](https://github.com/dispatchlabs/scanner)** - Network scanner for the Dispatch protocol
-- 📦 **[disnode_sdk](https://github.com/dispatchlabs/disnode_sdk)** - SDK for interfacing with the Dispatch network
-- 🌐 **[dispatch-js](https://github.com/dispatchlabs/dispatch-js)** - JavaScript SDK (browser + node)
-- 📂 **[dispatch-directory](https://github.com/dispatchlabs/dispatch-directory)** - Dispatch Directory
-- 📱 **[mobile_wallet](https://github.com/dispatchlabs/mobile_wallet)** - Dispatch Mobile Wallet
-- ☕ **[java-sdk](https://github.com/dispatchlabs/java-sdk)** - Java SDK
-- 🔧 **[dev-tools](https://github.com/dispatchlabs/dev-tools)** - Tools for operating and testing a local Dispatch cluster
-- 🔐 **[tezosmpc](https://github.com/dispatchlabs/tezosmpc)** - MPC library for privacy-preserving dapps on Tezos
-- 📋 **[samples](https://github.com/dispatchlabs/samples)** - Sample code
-- 🧪 **[disqa](https://github.com/dispatchlabs/disqa)** - QA automation scripts
-- 🔑 **[disgo-mask](https://github.com/dispatchlabs/disgo-mask)** - Chrome extension (experimental)
-- 📝 **[TechnicalDocs](https://github.com/dispatchlabs/TechnicalDocs)** - Technical documentation
-- 📊 **[golog](https://github.com/dispatchlabs/golog)** - Logging utilities
-
 ### Other Personal Projects
 
 - 🐸 **[crewai-devrel](https://github.com/colygon/crewai-devrel)** - Developer relations strategy for CrewAI
