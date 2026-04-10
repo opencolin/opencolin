@@ -25,6 +25,7 @@
 
 ## Recent Projects
 
+- ☕ **[muglife](https://github.com/opencolin/muglife)** - QR-coded coffee mugs with AI voices that guilt-trip you into bringing them home
 - 🌅 **[goldenhour](https://github.com/opencolin/goldenhour)** - Golden hour app built with React + Vite
 - ⏳ **[waitless](https://github.com/opencolin/waitless)** - Waitless — restaurant waitlist and queue management
 - 🎙️ **[vapi-skill](https://github.com/opencolin/vapi-skill)** - OpenClaw skill for Vapi voice agents
@@ -34,7 +35,6 @@
 - 🎯 **[Eventsea-Dashboard](https://github.com/opencolin/Eventsea-Dashboard)** - EventPilot — AI-powered event management for dev conferences and hackathons
 - 🚀 **[Eventsea-Landing-Page](https://github.com/opencolin/Eventsea-Landing-Page)** - Landing page for Eventsy, AI copilot for event organizers
 - 🤖 **[NodeJS-AgentKit-1](https://github.com/opencolin/NodeJS-AgentKit-1)** - Coinbase AgentKit + OpenAI agent interacting with the Polygon blockchain
-- ☕ **[muglife](https://github.com/opencolin/muglife)** - QR-coded coffee mugs with AI voices that guilt-trip you into bringing them home
 - ⛓️ **[ethsf](https://github.com/opencolin/ethsf)** - Ethereum SF — decentralized community calendar and hub for SF's Ethereum ecosystem
 - 📋 **[colinslist](https://github.com/opencolin/colinslist)** - Pre-accelerator classifieds board for founders, mentors, and investors
 - 🧾 **[autoinvoice](https://github.com/opencolin/autoinvoice)** - Automatically generate invoices based on receipts
