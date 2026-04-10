@@ -16,6 +16,7 @@
 
 ## Nebius AI Cloud
 
+- 🚀 **[openclaw-nebius](https://github.com/opencolin/openclaw-nebius)** - OpenClaw AI agents with 44+ open-source models via Nebius Token Factory + cloud deployment tools
 - 🧠 **[nebius-skill](https://github.com/opencolin/nebius-skill)** - Dual-compatible Claude Code + OpenClaw skill for managing Nebius AI Cloud via CLI
 - ☁️ **[NemoClaw-Cloud](https://github.com/opencolin/NemoClaw-Cloud)** - One-script setup: NemoClaw + Nemotron on Nebius GPU VMs
 - 🦞 **[openclaw-deploy](https://github.com/opencolin/openclaw-deploy)** - Deploy OpenClaw AI agents with Token Factory and Nebius Cloud
