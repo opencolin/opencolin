@@ -23,12 +23,20 @@
 - 📅 **[ConferenceAgent](https://github.com/nebiusbuild/ConferenceAgent)** - Book meetings at conferences handling all team calendars and room assignments
 - 🌐 **[nebius-build-site](https://github.com/opencolin/nebius-build-site)** - Nebius.Build SF event site
 
+### 🏢 [OpenClaw](https://github.com/opeclaw) — OpenClaw projects
+
+- 🌐 **[clawcamp-site](https://github.com/opencolin/clawcamp-site)** - ClawCamp event website with curriculum, speakers, sponsors, and workshops
+- 🎙️ **[vapi-skill](https://github.com/opencolin/vapi-skill)** - OpenClaw skill for Vapi voice agents
+- 📧 **[clawcamp](https://github.com/opencolin/clawcamp)** - ClawCamp community platform
+- 🧺 **[laundrylobster](https://github.com/opencolin/laundrylobster)** - LaundryLobster — wholesome laundry pickup + delivery
+- 📸 **[clawcam](https://github.com/opencolin/clawcam)** - Clawcam — live claw machine camera feed
+- 🤖 **landing-page** (closed source) - ClawdBots — pre-configured OpenClaw bots on Kubernetes
+
 ## Recent Projects
 
 - ☕ **[muglife](https://github.com/opencolin/muglife)** - QR-coded coffee mugs with AI voices that guilt-trip you into bringing them home
 - 🌅 **[goldenhour](https://github.com/opencolin/goldenhour)** - Golden hour app built with React + Vite
 - ⏳ **[waitless](https://github.com/opencolin/waitless)** - Waitless — restaurant waitlist and queue management
-- 🎙️ **[vapi-skill](https://github.com/opencolin/vapi-skill)** - OpenClaw skill for Vapi voice agents
 - 🎨 **[MuralCanvas](https://github.com/opencolin/MuralCanvas)** - Collaborative digital art platform with AI-powered (DALL-E 3) image generation
 - 🏠 **[HomeSketcher](https://github.com/opencolin/HomeSketcher)** - Transforms house addresses into line art prints via Street View + Gemini AI
 - 🏓 **[PingPongPal-1](https://github.com/opencolin/PingPongPal-1)** - Retro ping-pong booking, challenges, and leaderboards for Frontier Tower
@@ -52,13 +60,6 @@
 - 📦 **[ContentCacheBroker](https://github.com/opencolin/ContentCacheBroker)** - Content cache broker
 - 💰 **[StartupFinancer](https://github.com/opencolin/StartupFinancer)** - Startup financing tool
 - 📚 **[DigitalLibrary](https://github.com/opencolin/DigitalLibrary)** - Digital library platform
-
-### 🏢 [OpenClaw](https://github.com/opeclaw) — OpenClaw projects
-
-- 📧 **[clawcamp](https://github.com/opencolin/clawcamp)** - ClawCamp community platform
-- 🧺 **[laundrylobster](https://github.com/opencolin/laundrylobster)** - LaundryLobster — wholesome laundry pickup + delivery
-- 📸 **[clawcam](https://github.com/opencolin/clawcam)** - Clawcam — live claw machine camera feed
-- 🤖 **landing-page** (closed source) - ClawdBots — pre-configured OpenClaw bots on Kubernetes
 
 
 ### 🏢 [Model Context Protocol](https://github.com/ModelContextProtocol) — MCP Servers & Projects
