@@ -14,6 +14,18 @@
 
 > Building at the intersection of AI agents and community. Founder of [@dablclub](https://dabl.club) — SF's builder community. . Dev Advocate at Nebius [Nebius](https://nebius.com). Operations at [Frontier Tower](https://frontiertower.com) Ambassador Captain at [Omi](https://omi.me). 
 
+## 🚀 Latest Projects (2026)
+
+- 🖥️ **[dockingstation](https://github.com/opencolin/dockingstation)** - Developer container with 10 AI coding tools, web dashboard, and 90s Mac desktop
+- 🔨 **[openengineer](https://github.com/opencolin/openengineer)** - omo; the best agent harness - previously oh-my-opencode
+- 🤖 **[minions](https://github.com/opencolin/minions)** - Agentic Engineering reference — autonomous coding agents, patterns, and infrastructure
+- 👓 **[codeview](https://github.com/opencolin/codeview)** - View opencode sessions on Even Realities G2 smart glasses
+- 🧠 **[contree-skill](https://github.com/opencolin/contree-skill)** - Claude Code skill for using ConTree — sandboxed container execution with Git-like branching
+- 🦞 **[openclaw-nebius](https://github.com/opencolin/openclaw-nebius)** - OpenClaw + Nebius: provider plugin, deployment UI, and Claude Code skill
+- 🤖 **[openclaw](https://github.com/opencolin/openclaw)** - Your own personal AI assistant. Any OS. Any Platform. The lobster way
+- 🎨 **[openclaude](https://github.com/opencolin/openclaude)** - Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and 200+ models
+- 🌐 **[opencode-cloud](https://github.com/opencolin/opencode-cloud)** - Cloud infrastructure for opencode
+
 ## Nebius AI Cloud
 
 - 🧠 **[nebius-skill](https://github.com/opencolin/nebius-skill)** - Dual-compatible Claude Code + OpenClaw skill for managing Nebius AI Cloud via CLI
