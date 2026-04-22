@@ -29,6 +29,7 @@
 ## Nebius AI Cloud
 
 - 🧠 **[nebius-skill](https://github.com/opencolin/nebius-skill)** - Dual-compatible Claude Code + OpenClaw skill for managing Nebius AI Cloud via CLI
+- 🔌 **[openclaw-nebius-plugin](https://github.com/opencolin/openclaw-nebius-plugin)** - Nebius Token Factory provider plugin for OpenClaw — 44+ open-source models via single endpoint
 - ☁️ **[NemoClaw-Cloud](https://github.com/opencolin/NemoClaw-Cloud)** - One-script setup: NemoClaw + Nemotron on Nebius GPU VMs
 - 🦞 **[openclaw-deploy](https://github.com/opencolin/openclaw-deploy)** - Deploy OpenClaw AI agents with Token Factory and Nebius Cloud
 - 📅 **[ConferenceAgent](https://github.com/nebiusbuild/ConferenceAgent)** - Book meetings at conferences handling all team calendars and room assignments
@@ -36,6 +37,10 @@
 
 ## Recent Projects
 
+- 🎮 **[cue2](https://github.com/opencolin/cue2)** - Your next move, on cue
+- ☁️ **[dockingstation-cloud](https://github.com/opencolin/dockingstation-cloud)** - Cloud infrastructure for dockingstation
+- 📊 **[foss-affiliate-dashboard](https://github.com/opencolin/foss-affiliate-dashboard)** - Live comparison dashboard for FOSS affiliate tools (Mautic, Raider, Weferral)
+- 🎯 **[accenture-adm-crew](https://github.com/opencolin/accenture-adm-crew)** - Accenture ADM CrewAI autonomous development agent
 - 🌅 **[goldenhour](https://github.com/opencolin/goldenhour)** - Golden hour app built with React + Vite
 - ⏳ **[waitless](https://github.com/opencolin/waitless)** - Waitless — restaurant waitlist and queue management
 - 🎙️ **[vapi-skill](https://github.com/opencolin/vapi-skill)** - OpenClaw skill for Vapi voice agents
@@ -122,6 +127,8 @@
 ### 🔒 [Safemode](https://github.com/safemodedev)
 
 - 🖥️ **os** (closed source) - Safemode Operating System
+- 🌐 **[safemode-site](https://github.com/opencolin/safemode-site)** - SafeMode — Deploy AI Agents for $1/month
+- 🏰 **[365-castle-logos](https://github.com/opencolin/365-castle-logos)** - 365 unique castle logo designs — one for every day of the year
 
 ### 🏰 [Frontier Tower](https://github.com/frontiertower) — SF Builder Community
 
@@ -143,6 +150,7 @@
 
 ### 🐙 [KubeClaw](https://github.com/KubeClaw)
 
+- 🐙 **[kubeclaw](https://github.com/opencolin/kubeclaw)** - Production-ready toolkit for deploying OpenClaw/NemoClaw on Nebius Managed Kubernetes — Helm chart, GPU config, monitoring, security hardening
 
 ### ⛓️ [NotOnlyEVM](https://github.com/NotOnlyEVM)
 
