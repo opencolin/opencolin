@@ -14,28 +14,34 @@
 
 > Building at the intersection of AI agents and community. Founder of [@dablclub](https://dabl.club) — SF's builder community. Dev Advocate at Nebius [Nebius](https://nebius.com). Ambassador Captain at [Omi](https://omi.me). 
 
-## 🚀 Latest Projects (2026)
+## 🚀 Projects
+
+### Core Infrastructure & Agents
 
 - 🖥️ **[dockingstation](https://github.com/opencolin/dockingstation)** - Developer container with 10 AI coding tools, web dashboard, and 90s Mac desktop
-- 🔨 **[openengineer](https://github.com/opencolin/openengineer)** - omo; the best agent harness - previously oh-my-opencode
-- 🤖 **[minions](https://github.com/opencolin/minions)** - Agentic Engineering reference — autonomous coding agents, patterns, and infrastructure
+- 🔨 **[openengineer](https://github.com/opencolin/openengineer)** - 12 specialized AI agents for OpenCode — one per AI lab (Qwen, DeepSeek, NVIDIA, Google, Meta, Moonshot, Z.ai, NousResearch, OpenAI, MiniMax, PrimeIntellect)
+- 🤖 **[agentic-engineering](https://github.com/opencolin/agentic-engineering)** - Agentic Engineering reference — autonomous coding agents, patterns, and infrastructure
 - 👓 **[codeview](https://github.com/opencolin/codeview)** - View opencode sessions on Even Realities G2 smart glasses
 - 🧠 **[contree-skill](https://github.com/opencolin/contree-skill)** - Claude Code skill for using ConTree — sandboxed container execution with Git-like branching
-- 🦞 **[openclaw-nebius](https://github.com/opencolin/openclaw-nebius)** - OpenClaw + Nebius: provider plugin, deployment UI, and Claude Code skill
-- 🤖 **[openclaw](https://github.com/opencolin/openclaw)** - Your own personal AI assistant. Any OS. Any Platform. The lobster way
 - 🎨 **[openclaude](https://github.com/opencolin/openclaude)** - Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and 200+ models
 - 🌐 **[opencode-cloud](https://github.com/opencolin/opencode-cloud)** - Cloud infrastructure for opencode
 
-## Nebius AI Cloud
+### OpenClaw Ecosystem
+
+- 🦞 **[openclaw](https://github.com/opencolin/openclaw)** - Your own personal AI assistant. Any OS. Any Platform. The lobster way
+- 🦞 **[openclaw-nebius](https://github.com/opencolin/openclaw-nebius)** - OpenClaw + Nebius: provider plugin, deployment UI, and Claude Code skill
+- 🦞 **[openclaw-deploy](https://github.com/opencolin/openclaw-deploy)** - Deploy OpenClaw AI agents with Token Factory and Nebius Cloud
+- 🔌 **[openclaw-nebius-plugin](https://github.com/opencolin/openclaw-nebius-plugin)** - Nebius Token Factory provider plugin for OpenClaw — 44+ open-source models via single endpoint
+- 🐙 **[kubeclaw](https://github.com/opencolin/kubeclaw)** - Production-ready toolkit for deploying OpenClaw/NemoClaw on Nebius Managed Kubernetes — Helm chart, GPU config, monitoring, security hardening
+
+### Nebius AI Cloud
 
 - 🧠 **[nebius-skill](https://github.com/opencolin/nebius-skill)** - Dual-compatible Claude Code + OpenClaw skill for managing Nebius AI Cloud via CLI
-- 🔌 **[openclaw-nebius-plugin](https://github.com/opencolin/openclaw-nebius-plugin)** - Nebius Token Factory provider plugin for OpenClaw — 44+ open-source models via single endpoint
 - ☁️ **[NemoClaw-Cloud](https://github.com/opencolin/NemoClaw-Cloud)** - One-script setup: NemoClaw + Nemotron on Nebius GPU VMs
-- 🦞 **[openclaw-deploy](https://github.com/opencolin/openclaw-deploy)** - Deploy OpenClaw AI agents with Token Factory and Nebius Cloud
 - 📅 **[ConferenceAgent](https://github.com/nebiusbuild/ConferenceAgent)** - Book meetings at conferences handling all team calendars and room assignments
 - 🌐 **[nebius-build-site](https://github.com/opencolin/nebius-build-site)** - Nebius.Build SF event site
 
-## Recent Projects
+### Recent Projects
 
 - 🎮 **[cue2](https://github.com/opencolin/cue2)** - Your next move, on cue
 - ☁️ **[dockingstation-cloud](https://github.com/opencolin/dockingstation-cloud)** - Cloud infrastructure for dockingstation
