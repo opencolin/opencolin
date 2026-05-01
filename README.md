@@ -18,9 +18,11 @@
 
 ### Core Infrastructure & Agents
 
-- 🖥️ **[dockingstation](https://github.com/opencolin/dockingstation)** - Developer container with 10 AI coding tools, web dashboard, and 90s Mac desktop
+- 🖥️ **[dockingstation](https://github.com/opencolin/dockingstation)** - One container with 30 AI coding tools, web dashboard, browser terminal, and JSON API
 - 🔨 **[openengineer](https://github.com/opencolin/openengineer)** - 12 specialized AI agents for OpenCode — one per AI lab (Qwen, DeepSeek, NVIDIA, Google, Meta, Moonshot, Z.ai, NousResearch, OpenAI, MiniMax, PrimeIntellect)
 - 🤖 **[agentic-engineering](https://github.com/opencolin/agentic-engineering)** - Agentic Engineering reference — autonomous coding agents, patterns, and infrastructure
+- 🧩 **[claude-code-proxy](https://github.com/opencolin/claude-code-proxy)** - Claude Code to Token Factory API proxy
+- 🍎 **[omlx](https://github.com/opencolin/omlx)** - LLM inference server with continuous batching and SSD caching for Apple Silicon, managed from the macOS menu bar
 - 👓 **[codeview](https://github.com/opencolin/codeview)** - View opencode sessions on Even Realities G2 smart glasses
 - 🧠 **[contree-skill](https://github.com/opencolin/contree-skill)** - Claude Code skill for using ConTree — sandboxed container execution with Git-like branching
 - 🎨 **[openclaude](https://github.com/opencolin/openclaude)** - Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and 200+ models
@@ -43,37 +45,22 @@
 
 ### Recent Projects
 
-- 🎮 **[cue2](https://github.com/opencolin/cue2)** - Your next move, on cue
-- ☁️ **[dockingstation-cloud](https://github.com/opencolin/dockingstation-cloud)** - Cloud infrastructure for dockingstation
-- 📊 **[foss-affiliate-dashboard](https://github.com/opencolin/foss-affiliate-dashboard)** - Live comparison dashboard for FOSS affiliate tools (Mautic, Raider, Weferral)
-- 🎯 **[accenture-adm-crew](https://github.com/opencolin/accenture-adm-crew)** - Accenture ADM CrewAI autonomous development agent
-- 🌅 **[goldenhour](https://github.com/opencolin/goldenhour)** - Golden hour app built with React + Vite
-- ⏳ **[waitless](https://github.com/opencolin/waitless)** - Waitless — restaurant waitlist and queue management
-- 🎙️ **[vapi-skill](https://github.com/opencolin/vapi-skill)** - OpenClaw skill for Vapi voice agents
-- 🎨 **[MuralCanvas](https://github.com/opencolin/MuralCanvas)** - Collaborative digital art platform with AI-powered (DALL-E 3) image generation
-- 🏠 **[HomeSketcher](https://github.com/opencolin/HomeSketcher)** - Transforms house addresses into line art prints via Street View + Gemini AI
-- 🏓 **[PingPongPal-1](https://github.com/opencolin/PingPongPal-1)** - Retro ping-pong booking, challenges, and leaderboards for Frontier Tower
-- 🎯 **[Eventsea-Dashboard](https://github.com/opencolin/Eventsea-Dashboard)** - EventPilot — AI-powered event management for dev conferences and hackathons
+- 🧩 **[claude-code-proxy](https://github.com/opencolin/claude-code-proxy)** - Claude Code to Token Factory API proxy
+- 🍎 **[omlx](https://github.com/opencolin/omlx)** - LLM inference server with continuous batching and SSD caching for Apple Silicon
+- 📊 **[foss-affiliate-dashboard](https://github.com/opencolin/foss-affiliate-dashboard)** - Live comparison dashboard for FOSS affiliate tools: Mautic, Raider, and Weferral
+- 🌐 **[opencode-cloud](https://github.com/opencolin/opencode-cloud)** - Cloud infrastructure for opencode
 - 🚀 **[Eventsea-Landing-Page](https://github.com/opencolin/Eventsea-Landing-Page)** - Landing page for Eventsy, AI copilot for event organizers
-- 🤖 **[NodeJS-AgentKit-1](https://github.com/opencolin/NodeJS-AgentKit-1)** - Coinbase AgentKit + OpenAI agent interacting with the Polygon blockchain
-- ☕ **[muglife](https://github.com/opencolin/muglife)** - QR-coded coffee mugs with AI voices that guilt-trip you into bringing them home
-- ⛓️ **[ethsf](https://github.com/opencolin/ethsf)** - Ethereum SF — decentralized community calendar and hub for SF's Ethereum ecosystem
-- 📋 **[colinslist](https://github.com/opencolin/colinslist)** - Pre-accelerator classifieds board for founders, mentors, and investors
-- 🧾 **[autoinvoice](https://github.com/opencolin/autoinvoice)** - Automatically generate invoices based on receipts
-- 🌟 **[awesome-agents](https://github.com/opencolin/awesome-agents)** - Curated list of AI agents
-- 🏖️ **[jakes-summer-adventure](https://github.com/opencolin/jakes-summer-adventure)** - Interactive summer adventure website
-- 🦌 **[sfelks](https://github.com/opencolin/sfelks)** - Full-stack web app for San Francisco Elks Lodge #3
-- 🍹 **[Yerdrink-Website](https://github.com/opencolin/Yerdrink-Website)** - Yerdrink product website
-- 💬 **[Colinchat](https://github.com/opencolin/Colinchat)** - Chat application
-- ☁️ **[CloudClone](https://github.com/opencolin/CloudClone)** - AkashDNS marketing site — privacy-focused DNS resolver using ODoH
-- 🎪 **[EventLinkThumb](https://github.com/opencolin/EventLinkThumb)** - Events showcase for VR/AI hackathons and workshops
-- 🍿 **[SeinfeldSnacks](https://github.com/opencolin/SeinfeldSnacks)** - Seinfeld episode viewing + curated snack experiences platform
-- 🎉 **[seinfeldandsnacks](https://github.com/opencolin/seinfeldandsnacks)** - Seinfeld-themed birthday party event registration
-- 🏢 **[SoMa-Workspace](https://github.com/opencolin/SoMa-Workspace)** - SoMa workspace project
-- 🌐 **[AkashDNSClone](https://github.com/opencolin/AkashDNSClone)** - AkashDNS clone
-- 📦 **[ContentCacheBroker](https://github.com/opencolin/ContentCacheBroker)** - Content cache broker
-- 💰 **[StartupFinancer](https://github.com/opencolin/StartupFinancer)** - Startup financing tool
-- 📚 **[DigitalLibrary](https://github.com/opencolin/DigitalLibrary)** - Digital library platform
+- 🔨 **[openengineer](https://github.com/opencolin/openengineer)** - AI lab-specific agents for OpenCode with cross-session memory and cost tracking
+- 🖥️ **[dockingstation](https://github.com/opencolin/dockingstation)** - One container for AI coding agents, with a web dashboard, browser terminal, and API
+- 🤖 **[agentic-engineering](https://github.com/opencolin/agentic-engineering)** - Agentic Engineering reference for autonomous coding agents, patterns, and infrastructure
+- 🎮 **[cue2](https://github.com/opencolin/cue2)** - Your next move, on cue
+- 🦞 **[openclaw-nebius](https://github.com/opencolin/openclaw-nebius)** - OpenClaw + Nebius provider plugin, deployment UI, and Claude Code skill
+- 🧠 **[nebius-skill](https://github.com/opencolin/nebius-skill)** - Dual-compatible Claude Code + OpenClaw skill for managing Nebius AI Cloud via CLI
+- 🐙 **[kubeclaw](https://github.com/opencolin/kubeclaw)** - Production-ready toolkit for deploying OpenClaw/NemoClaw on Nebius Managed Kubernetes
+- ☁️ **[dockingstation-cloud](https://github.com/opencolin/dockingstation-cloud)** - Cloud infrastructure for dockingstation
+- 🛡️ **[safemode2](https://github.com/opencolin/safemode2)** - Recent SafeMode work
+- 🧰 **[codex-nebius](https://github.com/opencolin/codex-nebius)** - Nebius tooling for Codex workflows
+- 🎯 **[accenture-adm-crew](https://github.com/opencolin/accenture-adm-crew)** - Accenture ADM CrewAI autonomous development agent
 
 ### 🏢 [OpenClaw](https://github.com/opeclaw) — OpenClaw projects
 
