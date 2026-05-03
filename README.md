@@ -22,6 +22,8 @@
 - 🔨 **[openengineer](https://github.com/opencolin/openengineer)** - 12 specialized AI agents for OpenCode — one per AI lab (Qwen, DeepSeek, NVIDIA, Google, Meta, Moonshot, Z.ai, NousResearch, OpenAI, MiniMax, PrimeIntellect)
 - 🤖 **[agentic-engineering](https://github.com/opencolin/agentic-engineering)** - Agentic Engineering reference — autonomous coding agents, patterns, and infrastructure
 - 🧩 **[claude-code-proxy](https://github.com/opencolin/claude-code-proxy)** - Claude Code to Token Factory API proxy
+- 📊 **[massive](https://github.com/opencolin/massive)** - Daily brand-visibility tracker built on Massive's Web Render AI API
+- 🧠 **[massive-consensus](https://github.com/opencolin/massive-consensus)** - Multi-LLM consensus and lead enrichment built on Massive's AI Chat API
 - 🍎 **[omlx](https://github.com/opencolin/omlx)** - LLM inference server with continuous batching and SSD caching for Apple Silicon, managed from the macOS menu bar
 - 👓 **[codeview](https://github.com/opencolin/codeview)** - View opencode sessions on Even Realities G2 smart glasses
 - 🧠 **[contree-skill](https://github.com/opencolin/contree-skill)** - Claude Code skill for using ConTree — sandboxed container execution with Git-like branching
@@ -38,6 +40,7 @@
 
 ### Nebius AI Cloud
 
+- 🧩 **[nebius-mcp](https://github.com/opencolin/nebius-mcp)** - MCP tooling for Nebius workflows
 - 🧠 **[nebius-skill](https://github.com/opencolin/nebius-skill)** - Dual-compatible Claude Code + OpenClaw skill for managing Nebius AI Cloud via CLI
 - ☁️ **[NemoClaw-Cloud](https://github.com/opencolin/NemoClaw-Cloud)** - One-script setup: NemoClaw + Nemotron on Nebius GPU VMs
 - 📅 **[ConferenceAgent](https://github.com/nebiusbuild/ConferenceAgent)** - Book meetings at conferences handling all team calendars and room assignments
@@ -45,6 +48,10 @@
 
 ### Recent Projects
 
+- 📅 **[massive-meetup](https://github.com/opencolin/massive-meetup)** - Meetup and event tooling built with TypeScript
+- 🧩 **[nebius-mcp](https://github.com/opencolin/nebius-mcp)** - MCP tooling for Nebius workflows
+- 📊 **[massive](https://github.com/opencolin/massive)** - Daily brand-visibility tracker built on Massive's Web Render AI API
+- 🧠 **[massive-consensus](https://github.com/opencolin/massive-consensus)** - Multi-LLM consensus and lead enrichment built on Massive's AI Chat API
 - 🧩 **[claude-code-proxy](https://github.com/opencolin/claude-code-proxy)** - Claude Code to Token Factory API proxy
 - 🍎 **[omlx](https://github.com/opencolin/omlx)** - LLM inference server with continuous batching and SSD caching for Apple Silicon
 - 📊 **[foss-affiliate-dashboard](https://github.com/opencolin/foss-affiliate-dashboard)** - Live comparison dashboard for FOSS affiliate tools: Mautic, Raider, and Weferral
