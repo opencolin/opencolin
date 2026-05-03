@@ -48,8 +48,9 @@
 
 ### Recent Projects
 
-- 📅 **[massive-meetup](https://github.com/opencolin/massive-meetup)** - Meetup and event tooling built with TypeScript
 - 🧩 **[nebius-mcp](https://github.com/opencolin/nebius-mcp)** - MCP tooling for Nebius workflows
+- 📦 **[contree-mcp](https://github.com/opencolin/contree-mcp)** - MCP server for ConTree — sandboxed cloud containers for AI agents with full root, network, and persistent images
+- 📅 **[massive-meetup](https://github.com/opencolin/massive-meetup)** - Meetup and event tooling built with TypeScript
 - 📊 **[massive](https://github.com/opencolin/massive)** - Daily brand-visibility tracker built on Massive's Web Render AI API
 - 🧠 **[massive-consensus](https://github.com/opencolin/massive-consensus)** - Multi-LLM consensus and lead enrichment built on Massive's AI Chat API
 - 🧩 **[claude-code-proxy](https://github.com/opencolin/claude-code-proxy)** - Claude Code to Token Factory API proxy
@@ -80,6 +81,8 @@
 ### 🏢 [Model Context Protocol](https://github.com/ModelContextProtocol) — MCP Servers & Projects
 - 🔮 **[MinecraftPortal](https://github.com/opencolin/MinecraftPortal)** - Omi MCP server dashboard for managing conversations and memories
 - 🧩 **[memori-mcp](https://github.com/opencolin/memori-mcp)** - Security-first MCP server exposing Memori-backed remember/recall tools for IDE agents
+- 🧩 **[nebius-mcp](https://github.com/opencolin/nebius-mcp)** - MCP tooling for Nebius workflows
+- 📦 **[contree-mcp](https://github.com/opencolin/contree-mcp)** - MCP server for ConTree — sandboxed cloud containers for AI agents with full root, network, and persistent images
 - 🟣 **[polygon-mcp](https://github.com/Dablclub/polygon-mcp)** - Polygon MCP server (6 stars)
 - 🧩 **[mcp-server](https://github.com/merakimiles/mcp-server)** - Meraki MCP Server
 
