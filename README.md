@@ -50,15 +50,6 @@
 - 📅 **[ConferenceAgent](https://github.com/nebiusbuild/ConferenceAgent)** - Book meetings at conferences handling all team calendars and room assignments
 - 🌐 **[nebius-build-site](https://github.com/opencolin/nebius-build-site)** - Nebius.Build SF event site
 
-### MCP Servers
-
-- 🧩 **[nebius-mcp](https://github.com/opencolin/nebius-mcp)** - MCP tooling for Nebius workflows
-- 📦 **[contree-mcp](https://github.com/opencolin/contree-mcp)** - MCP server for ConTree — sandboxed cloud containers for AI agents with full root, network, and persistent images
-- 🧩 **[memori-mcp](https://github.com/opencolin/memori-mcp)** - Security-first MCP server exposing Memori-backed remember/recall tools for IDE agents
-- 🔮 **[MinecraftPortal](https://github.com/opencolin/MinecraftPortal)** - Omi MCP server dashboard for managing conversations and memories
-- 🟣 **[polygon-mcp](https://github.com/Dablclub/polygon-mcp)** - Polygon MCP server (6 stars)
-- 🧩 **[mcp-server](https://github.com/merakimiles/mcp-server)** - Meraki MCP Server
-
 ### CrewAI
 
 - 🎯 **[accenture-adm-crew](https://github.com/opencolin/accenture-adm-crew)** - Accenture ADM CrewAI autonomous development agent
@@ -76,6 +67,15 @@
 - 🧺 **[laundrylobster](https://github.com/opencolin/laundrylobster)** - LaundryLobster — wholesome laundry pickup + delivery (Next.js)
 - 🎮 **[cue2](https://github.com/opencolin/cue2)** - Your next move, on cue
 - 🏰 **[365-castle-logos](https://github.com/sandbox-safemode/365-castle-logos)** - 365 unique castle logo designs — one for every day of the year
+
+### MCP Servers
+
+- 🧩 **[nebius-mcp](https://github.com/opencolin/nebius-mcp)** - MCP tooling for Nebius workflows
+- 📦 **[contree-mcp](https://github.com/opencolin/contree-mcp)** - MCP server for ConTree — sandboxed cloud containers for AI agents with full root, network, and persistent images
+- 🧩 **[memori-mcp](https://github.com/opencolin/memori-mcp)** - Security-first MCP server exposing Memori-backed remember/recall tools for IDE agents
+- 🔮 **[MinecraftPortal](https://github.com/opencolin/MinecraftPortal)** - Omi MCP server dashboard for managing conversations and memories
+- 🟣 **[polygon-mcp](https://github.com/Dablclub/polygon-mcp)** - Polygon MCP server (6 stars)
+- 🧩 **[mcp-server](https://github.com/merakimiles/mcp-server)** - Meraki MCP Server
 
 ## 🏢 Organizations & Communities
 
