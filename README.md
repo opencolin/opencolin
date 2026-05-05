@@ -38,6 +38,9 @@
 - 🦞 **[openclaw-deploy](https://github.com/opencolin/openclaw-deploy)** - Deploy OpenClaw AI agents with Token Factory and Nebius Cloud
 - 🔌 **[openclaw-nebius-plugin](https://github.com/opencolin/openclaw-nebius-plugin)** - Nebius Token Factory provider plugin for OpenClaw — 44+ open-source models via single endpoint
 - 🐙 **[kubeclaw](https://github.com/opencolin/kubeclaw)** - Production-ready toolkit for deploying OpenClaw/NemoClaw on Nebius Managed Kubernetes — Helm chart, GPU config, monitoring, security hardening
+- 📧 **[clawcamp](https://github.com/opencolin/clawcamp)** - ClawCamp community platform
+- 📸 **[clawcam](https://github.com/opencolin/clawcam)** - Clawcam — live claw machine camera feed
+- 🤖 **landing-page** (closed source) - ClawdBots — pre-configured OpenClaw bots on Kubernetes
 
 ### Nebius AI Cloud
 
@@ -70,22 +73,11 @@
 - 📅 **[massive-meetup](https://github.com/opencolin/massive-meetup)** - Meetup and event tooling built with TypeScript
 - 📊 **[foss-affiliate-dashboard](https://github.com/opencolin/foss-affiliate-dashboard)** - Live comparison dashboard for FOSS affiliate tools: Mautic, Raider, and Weferral
 - 🚀 **[Eventsea-Landing-Page](https://github.com/opencolin/Eventsea-Landing-Page)** - Landing page for Eventsy, AI copilot for event organizers
+- 🧺 **[laundrylobster](https://github.com/opencolin/laundrylobster)** - LaundryLobster — wholesome laundry pickup + delivery (Next.js)
 - 🎮 **[cue2](https://github.com/opencolin/cue2)** - Your next move, on cue
-- 🛡️ **[safemode2](https://github.com/opencolin/safemode2)** - Recent SafeMode work
-- 🏰 **[365-castle-logos](https://github.com/opencolin/365-castle-logos)** - 365 unique castle logo designs — one for every day of the year
+- 🏰 **[365-castle-logos](https://github.com/sandbox-safemode/365-castle-logos)** - 365 unique castle logo designs — one for every day of the year
 
 ## 🏢 Organizations & Communities
-
-### [OpenClaw](https://github.com/openclaw)
-
-- 📧 **[clawcamp](https://github.com/opencolin/clawcamp)** - ClawCamp community platform
-- 🧺 **[laundrylobster](https://github.com/opencolin/laundrylobster)** - LaundryLobster — wholesome laundry pickup + delivery
-- 📸 **[clawcam](https://github.com/opencolin/clawcam)** - Clawcam — live claw machine camera feed
-- 🤖 **landing-page** (closed source) - ClawdBots — pre-configured OpenClaw bots on Kubernetes
-
-### [Model Context Protocol](https://github.com/ModelContextProtocol)
-
-MCP servers I've built are listed under **Projects → MCP Servers** above.
 
 ### [MCP Security](https://github.com/ModelContextProtocol-Security) — Cloud Security Alliance Project
 
@@ -129,10 +121,6 @@ MCP servers I've built are listed under **Projects → MCP Servers** above.
 - 📶 **[wifi](https://github.com/frontiertower/wifi)** - Frontier Tower WiFi infrastructure
 - 📰 **[ftreport](https://github.com/opencolin/ftreport)** - Frontier Tower report
 - 📰 **frontier-tower-newsletter** (closed source) - Newsletter
-
-### [AgentCamp](https://github.com/agentcamp)
-
-- 📋 **[awesome-agents](https://github.com/agentcamp/awesome-agents)** - Easy-mode for engineers and entrepreneurs
 
 ### [Cisco Meraki](https://github.com/merakimiles)
 
