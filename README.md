@@ -34,6 +34,12 @@ The open-source collaborative IDE where your whole squad edits the same repo in 
 
 🐙 **[github.com/opencolin/ice](https://github.com/opencolin/ice)** · 🧊 self-host: `docker compose up` · 📋 **[v3 roadmap](https://github.com/opencolin/ice/blob/main/docs/ROADMAP_V3.md)**
 
+🦞 **[ClawCamp](https://claw.camp)** — *Join the personal AI revolution — in your city.*
+
+A global network of AI builder camps: workshops, demo days, hackathons, and startup showcases for the OpenClaw community. Find a chapter near you on an interactive world map, RSVP to events worldwide, browse the tutorial library and speakers, toggle dark mode, or apply to start your own chapter. Vanilla HTML/CSS/JS on a Supabase backend, shipped continuously on Vercel.
+
+🌐 **[claw.camp](https://claw.camp)** · 🐙 **[github.com/opencolin/clawcamp-site](https://github.com/opencolin/clawcamp-site)**
+
 ## 🚀 Projects
 
 ### Core Infrastructure & Agents
@@ -61,6 +67,7 @@ The open-source collaborative IDE where your whole squad edits the same repo in 
 - 🔌 **[openclaw-nebius-plugin](https://github.com/opencolin/openclaw-nebius-plugin)** - Nebius Token Factory provider plugin for OpenClaw — 44+ open-source models via single endpoint
 - 🐙 **[kubeclaw](https://github.com/opencolin/kubeclaw)** - Production-ready toolkit for deploying OpenClaw/NemoClaw on Nebius Managed Kubernetes — Helm chart, GPU config, monitoring, security hardening
 - 📧 **[clawcamp](https://github.com/opencolin/clawcamp)** - ClawCamp community platform
+- 🦞 **[clawcamp-site](https://github.com/opencolin/clawcamp-site)** - [claw.camp](https://claw.camp) — the live ClawCamp network site: events, chapters, tutorials, speakers, dark mode
 - 📸 **[clawcam](https://github.com/opencolin/clawcam)** - Clawcam — live claw machine camera feed
 - 🤖 **landing-page** (closed source) - ClawdBots — pre-configured OpenClaw bots on Kubernetes
 
