@@ -14,10 +14,19 @@
 
 > Building at the intersection of AI agents and community. Founder of [@dablclub](https://dabl.club) — SF's builder community. Dev Advocate at [Nebius](https://nebius.com). Ambassador Captain at [Omi](https://omi.me).
 
+## ⭐ Currently building
+
+🔒 **[Moltypass](https://moltypass.app)** — *Your API keys are credentials. Stop treating them like environment variables.*
+
+The password manager AI keys never had. One vault for the browser, the terminal, and every tool in between. Touch ID unlock on macOS. Capture keys straight from the provider's console without ever copying. Rotate or revoke in one click. See every call that ever used one.
+
+🌐 **[moltypass.app](https://moltypass.app)** · 🐙 **[github.com/opencolin/moltypass](https://github.com/opencolin/moltypass)** · 📦 `brew install moltypass`
+
 ## 🚀 Projects
 
 ### Core Infrastructure & Agents
 
+- 🔒 **[moltypass](https://github.com/opencolin/moltypass)** - Encrypted vault for AI API keys. Browser + terminal. Touch ID. Capture straight from the provider's console — no clipboard. [moltypass.app](https://moltypass.app)
 - 🖥️ **[dockingstation](https://github.com/opencolin/dockingstation)** - One container with 30 AI coding tools, web dashboard, browser terminal, and JSON API
 - 🔨 **[openengineer](https://github.com/opencolin/openengineer)** - 12 specialized AI agents for OpenCode — one per AI lab (Qwen, DeepSeek, NVIDIA, Google, Meta, Moonshot, Z.ai, NousResearch, OpenAI, MiniMax, PrimeIntellect)
 - 🤖 **[agentic-engineering](https://github.com/opencolin/agentic-engineering)** - Agentic Engineering reference — autonomous coding agents, patterns, and infrastructure
