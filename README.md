@@ -22,6 +22,12 @@ The password manager AI keys never had. One vault for the browser, the terminal,
 
 🌐 **[moltypass.app](https://moltypass.app)** · 🐙 **[github.com/opencolin/moltypass](https://github.com/opencolin/moltypass)** · 📦 `brew install moltypass`
 
+✨ **[Superslide](https://superslide.fun)** — *Your deck deserves better than a PDF.*
+
+Drop your PPTX, PDF, Keynote, or Markdown — get back a fully interactive web slideshow themed to your brand. Real React + shadcn + Three.js scenes, not divs pretending to be slides. AI-classified slide kinds (title / stats / chart / comparison / hero3d / code / quote / timeline), ElevenLabs narration with auto-advance "podcast mode", and a BYOK key flow when the shared credits run out. Deploys as a real Next.js app you own.
+
+🌐 **[superslide.fun](https://superslide.fun)** · 🐙 **[github.com/opencolin/superslide](https://github.com/opencolin/superslide)** · 🎬 **[live demo](https://superslide.fun/demo)**
+
 ## 🚀 Projects
 
 ### Core Infrastructure & Agents
