@@ -40,6 +40,12 @@ A global network of AI builder camps: workshops, demo days, hackathons, and star
 
 🌐 **[claw.camp](https://claw.camp)** · 🐙 **[github.com/opencolin/clawcamp-site](https://github.com/opencolin/clawcamp-site)**
 
+📡 **[Bastion](https://bastion-bice.vercel.app)** — *The operating layer for the companies that power live events.*
+
+Festivals run on a patchwork of Starlink dishes, Peplink routers, and solar batteries — and the ~45 companies that deploy them all fly blind on four vendor dashboards and a spreadsheet. **Bastion Command** is the hardware-agnostic fleet control plane that gives them one screen across the gear they *already own*: live battery / throughput / uptime telemetry, remote access that kills the truck-roll, and white-label SLA reports that get them paid. Free multi-vendor monitoring is the wedge — the one thing the Peplink, Ubiquiti, and Starlink consoles each *can't* do — with rugged Bastion nodes and the festival-native sibling **Playa Kit** riding on top.
+
+🌐 **[bastion-bice.vercel.app](https://bastion-bice.vercel.app)** · 🎪 **[playakit.vercel.app](https://playakit.vercel.app)**
+
 ## 🚀 Projects
 
 ### Core Infrastructure & Agents
@@ -90,6 +96,7 @@ A global network of AI builder camps: workshops, demo days, hackathons, and star
 
 ### Other Projects
 
+- 📡 **[Bastion](https://bastion-bice.vercel.app)** - Hardware-agnostic fleet control plane for event-connectivity companies — one screen across their Starlink, Peplink & Ubiquiti gear, remote access, and white-label SLA reports. Free multi-vendor monitoring + festival sibling [Playa Kit](https://playakit.vercel.app)
 - 📅 **[massive-meetup](https://github.com/opencolin/massive-meetup)** - Meetup and event tooling built with TypeScript
 - 📊 **[foss-affiliate-dashboard](https://github.com/opencolin/foss-affiliate-dashboard)** - Live comparison dashboard for FOSS affiliate tools: Mautic, Raider, and Weferral
 - 🚀 **[Eventsea-Landing-Page](https://github.com/opencolin/Eventsea-Landing-Page)** - Landing page for Eventsy, AI copilot for event organizers
