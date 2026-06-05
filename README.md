@@ -28,11 +28,18 @@ Drop your PPTX, PDF, Keynote, or Markdown — get back a fully interactive web s
 
 🌐 **[superslide.fun](https://superslide.fun)** · 🐙 **[github.com/opencolin/superslide](https://github.com/opencolin/superslide)** · 🎬 **[live demo](https://superslide.fun/demo)**
 
+🧊 **[ICE](https://github.com/opencolin/ice)** — *Code with friends — human and AI — in one shared live workspace.*
+
+The open-source collaborative IDE where your whole squad edits the same repo in real time. AI coding agents are first-class teammates: they edit *through* the shared CRDT doc — attributable, undoable, behind an approval gate — not in a side channel. Pair over voice and chat, and ship from a server you own that comes with its **own built-in git server**. Self-hostable in one `docker compose up`, Apache-2.0. Built v0.1 → v2.0: live multiplayer editing, a CRDT↔git convergence seam, a whole *squad* of agents co-editing concurrently, and a Redis scale-out path.
+
+🐙 **[github.com/opencolin/ice](https://github.com/opencolin/ice)** · 🧊 self-host: `docker compose up` · 📋 **[v3 roadmap](https://github.com/opencolin/ice/blob/main/docs/ROADMAP_V3.md)**
+
 ## 🚀 Projects
 
 ### Core Infrastructure & Agents
 
 - 🔒 **[moltypass](https://github.com/opencolin/moltypass)** - Encrypted vault for AI API keys. Browser + terminal. Touch ID. Capture straight from the provider's console — no clipboard. [moltypass.app](https://moltypass.app)
+- 🧊 **[ice](https://github.com/opencolin/ice)** - Open-source collaborative IDE: humans + AI agents code together in one shared live workspace. Voice, chat, and its own git server. Self-hostable, Apache-2.0
 - 🖥️ **[dockingstation](https://github.com/opencolin/dockingstation)** - One container with 30 AI coding tools, web dashboard, browser terminal, and JSON API
 - 🔨 **[openengineer](https://github.com/opencolin/openengineer)** - 12 specialized AI agents for OpenCode — one per AI lab (Qwen, DeepSeek, NVIDIA, Google, Meta, Moonshot, Z.ai, NousResearch, OpenAI, MiniMax, PrimeIntellect)
 - 🤖 **[agentic-engineering](https://github.com/opencolin/agentic-engineering)** - Agentic Engineering reference — autonomous coding agents, patterns, and infrastructure
