@@ -46,6 +46,12 @@ Festivals run on a patchwork of Starlink dishes, Peplink routers, and solar batt
 
 🌐 **[bastion-bice.vercel.app](https://bastion-bice.vercel.app)** · 🎪 **[playakit.vercel.app](https://playakit.vercel.app)**
 
+☕ **[The Coffee Table Book](https://thecoffeetablebook.org)** — *The world's most interesting stories about the substances that change the mind.*
+
+A museum-grade digital coffee table book on the culture, science, history, and **harm reduction** of psychoactive drugs — built on DanceSafe's ethos. No how-to and no doses: a substance-by-substance safety reference (risks, the combinations that can kill you, and aftercare), an "Index of Molecules" rendered from real chemical data, a chapter on Judaism & the altered mind, and a public-domain art gallery. A proof of concept for a book → series → platform → mission franchise.
+
+🌐 **[thecoffeetablebook.org](https://thecoffeetablebook.org)**
+
 ## 🚀 Projects
 
 ### Core Infrastructure & Agents
