@@ -52,6 +52,92 @@ A museum-grade digital coffee table book on the culture, science, history, and *
 
 🌐 **[thecoffeetablebook.org](https://thecoffeetablebook.org)**
 
+## 🚢 The Fleet — 50 products, one studio
+
+A 50-startup portfolio built on a single platform: every app gets a branded page, a waitlist, analytics instrumentation, and a one-command go-live. **[Browse the live directory →](https://dotagent.domains/fleet/)**
+
+### 🛠 Devtools & codegen
+
+| App | Domain | What it is |
+|---|---|---|
+| **Gitpad** 🟢 | [gitpad.io](https://gitpad.io/) | scratchpad notebooks that commit to your repo |
+| **Warplit** 🟢 | [warplit.com](https://warplit.com/) | pair-coding that actually feels good |
+| **Ixio** | [ixio.com](https://dotagent.domains/fleet/ixio-com/) | describe an integration, ship an MCP server |
+| **Buildon** | [buildon.io](https://dotagent.domains/fleet/buildon-io/) | fork a production app, not a tutorial |
+| **ActionItem** | [actionitem.app](https://dotagent.domains/fleet/actionitem-app/) | every meeting ends with tracked next steps |
+| **Magicoder** | [magicoder.io](https://dotagent.domains/fleet/magicoder-io/) | scaffold whole features from one prompt |
+| **ReportMe** | [reportme.io](https://dotagent.domains/fleet/reportme-io/) | weekly updates that write themselves |
+| **Eva** | eva.report *(reserved)* | turn your data into evaluation reports |
+
+### 🤖 Agents, SRE & infra
+
+| App | Domain | What it is |
+|---|---|---|
+| **Safemode** | [safemode.dev](https://dotagent.domains/fleet/safemode-dev/) | auto-isolate compromised services before they spread |
+| **BrainSync** | [brainsync.io](https://dotagent.domains/fleet/brainsync-io/) | one search box for all your knowledge |
+| **Incidently** | [incident.ly](https://dotagent.domains/fleet/incident-ly/) | on-call paging built for small teams |
+| **Robotico** | [robotico.io](https://dotagent.domains/fleet/robotico-io/) | parts and build guides for robot makers |
+| **Safemode** | [safemode.sh](https://dotagent.domains/fleet/safemode-sh/) | sandbox risky shell commands before they run |
+| **Automate** | automate.engineering *(reserved)* | internal workflows for engineering teams |
+| **SafeMode** | [safemode.gg](https://dotagent.domains/fleet/safemode-gg/) | safe chat and parental controls for gaming |
+| **ServiceLevelAgent** | [servicelevelagent.com](https://dotagent.domains/fleet/servicelevelagent-com/) | an AI SRE that guards your SLAs |
+
+### 💸 Money & fintech
+
+| App | Domain | What it is |
+|---|---|---|
+| **Moby** | [moby.money](https://dotagent.domains/fleet/moby-money/) | see whale moves before the chart |
+| **Mofi** | [mofi.app](https://dotagent.domains/fleet/mofi-app/) | the budgeting app that fits your thumb |
+| **Fireside** | [fireside.finance](https://dotagent.domains/fleet/fireside-finance/) | warm investor updates founders actually send |
+| **Disco** | [disco.money](https://dotagent.domains/fleet/disco-money/) | splitting the bill actually feels fun |
+| **Mofi** | [mofi.cash](https://dotagent.domains/fleet/mofi-cash/) | send money in seconds, no account number |
+| **Moby** | [moby.tips](https://dotagent.domains/fleet/moby-tips/) | big tips for creators worth supporting |
+| **Dabl** | [dabl.capital](https://dotagent.domains/fleet/dabl-capital/) | dabble in startups, $250 a check |
+| **Fungible Friday** | [fungiblefriday.com](https://dotagent.domains/fleet/fungiblefriday-com/) | the weekly drop list for token launches |
+| **StandupFinance** | [standup.finance](https://dotagent.domains/fleet/standup-finance/) | your daily financial standup, automated |
+
+### 🎟 Events & community
+
+| App | Domain | What it is |
+|---|---|---|
+| **PartyPizza** | [party.pizza](https://dotagent.domains/fleet/party-pizza/) | group pizza orders without the group chat |
+| **Eventsea** | [eventsea.io](https://dotagent.domains/fleet/eventsea-io/) | a scrollable feed for what's happening near you |
+| **Unconference** | [unconference.app](https://dotagent.domains/fleet/unconference-app/) | run participant-driven events without a fixed agenda |
+| **Eventsy** | [eventsy.io](https://dotagent.domains/fleet/eventsy-io/) | registration and tickets in one place |
+| **Dabl Club** | [dablclub.com](https://dotagent.domains/fleet/dablclub-com/) | a members-only club for serial dabblers |
+| **Double** | [double.club](https://dotagent.domains/fleet/double-club/) | members-only club for nightlife and events |
+| **Eventsea** | [eventsea.org](https://dotagent.domains/fleet/eventsea-org/) | free event listings for community organizers |
+| **Zucamp** | [zucamp.com](https://dotagent.domains/fleet/zucamp-com/) | pop-up coliving camps for builders |
+| **Leethouse** | [1337house.com](https://dotagent.domains/fleet/1337house-com/) | where the best young engineers live and build |
+
+### 📱 Consumer AI & social
+
+| App | Domain | What it is |
+|---|---|---|
+| **Perple** 🟢 | [perple.app](https://perple.app/) | find your people, not just profiles |
+| **Elogy** | [elogy.ai](https://dotagent.domains/fleet/elogy-ai/) | the right words when you can't find them |
+| **TacoBot** | [tacobot.co](https://dotagent.domains/fleet/tacobot-co/) | text your taco order, skip the line |
+| **Banana** | [banana.cam](https://dotagent.domains/fleet/banana-cam/) | turn your selfie into something ridiculous |
+| **House of Moon** | [houseofmoon.io](https://dotagent.domains/fleet/houseofmoon-io/) | daily guidance tuned to the moon |
+| **Bob** | [bob.chat](https://dotagent.domains/fleet/bob-chat/) | an AI buddy that actually remembers you |
+| **Glitter** | [glitter.chat](https://dotagent.domains/fleet/glitter-chat/) | chats that sparkle, react, and play |
+| **MemGG** | [mem.gg](https://dotagent.domains/fleet/mem-gg/) | train the memory that wins matches |
+
+### 🛒 Commerce, marketplaces & compute
+
+| App | Domain | What it is |
+|---|---|---|
+| **Compute Coffee** 🟢 | [compute.coffee](https://compute.coffee/) | cloud compute priced like cups of coffee |
+| **Computecafe** 🟢 | [computecafe.com](https://computecafe.com/) | pay-as-you-go GPUs for AI tinkerers |
+| **TaskClaw** 🟢 | [taskclaw.ai](https://taskclaw.ai/) | an agent that clears your backlog |
+| **BuildTeam** | [buildteam.app](https://dotagent.domains/fleet/buildteam-app/) | ship your MVP with a vetted pod |
+| **Scolar** | [scolar.io](https://dotagent.domains/fleet/scolar-io/) | find every scholarship and grant you qualify for |
+| **Burrata** | [burrata.io](https://dotagent.domains/fleet/burrata-io/) | same-day artisan cheese and deli, delivered |
+| **Silver Spur** | [silverspur.co](https://dotagent.domains/fleet/silverspur-co/) | book authentic western ranch stays |
+| **Golden Spur** | [goldenspurresort.com](https://dotagent.domains/fleet/goldenspurresort-com/) | book the West, done in style |
+
+🟢 = live on its own domain · others link to their staged preview · 6 live, 42 staged, 2 reserved
+
 ## 🚀 Projects
 
 ### Core Infrastructure & Agents
