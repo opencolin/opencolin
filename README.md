@@ -23,6 +23,73 @@
 - 📡 **[Bastion](https://bastion-bice.vercel.app)** — Hardware-agnostic fleet control plane for live-event connectivity companies
 - ☕ **[The Coffee Table Book](https://thecoffeetablebook.org)** — Digital coffee table book on culture, science, and harm reduction
 
+## 🚀 Projects
+
+### Core Infrastructure & Agents
+
+- 🔒 **[moltypass](https://github.com/opencolin/moltypass)** - Encrypted vault for AI API keys. Browser + terminal. Touch ID. Capture straight from the provider’s console — no clipboard. [moltypass.app](https://moltypass.app)
+- 🧳 **[ice](https://github.com/opencolin/ice)** - Open-source collaborative IDE: humans + AI agents code together in one shared live workspace. Voice, chat, and its own git server. Self-hostable, Apache-2.0
+- 🖥️ **[dockingstation](https://github.com/opencolin/dockingstation)** - One container with 30 AI coding tools, web dashboard, browser terminal, and JSON API
+- 🔨 **[openengineer](https://github.com/opencolin/openengineer)** - 12 specialized AI agents for OpenCode — one per AI lab (Qwen, DeepSeek, NVIDIA, Google, Meta, Moonshot, Z.ai, NousResearch, OpenAI, MiniMax, PrimeIntellect)
+- 🤖 **[agentic-engineering](https://github.com/opencolin/agentic-engineering)** - Agentic Engineering reference — autonomous coding agents, patterns, and infrastructure
+- 🧩 **[claude-code-proxy](https://github.com/opencolin/claude-code-proxy)** - Claude Code to Token Factory API proxy
+- 📊 **[massive](https://github.com/opencolin/massive)** - Daily brand-visibility tracker built on Massive’s Web Render AI API
+- 🧠 **[massive-consensus](https://github.com/opencolin/massive-consensus)** - Multi-LLM consensus and lead enrichment built on Massive’s AI Chat API
+- 🍎 **[omlx](https://github.com/opencolin/omlx)** - LLM inference server with continuous batching and SSD caching for Apple Silicon, managed from the macOS menu bar
+- 👓 **[codeview](https://github.com/opencolin/codeview)** - View opencode sessions on Even Realities G2 smart glasses
+- 🧠 **[contree-skill](https://github.com/opencolin/contree-skill)** - Claude Code skill for using ConTree — sandboxed container execution with Git-like branching
+- 🎨 **[openclaude](https://github.com/opencolin/openclaude)** - Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and 200+ models
+- 🌐 **[opencode-cloud](https://github.com/opencolin/opencode-cloud)** - Cloud infrastructure for opencode
+- ☁️ **[dockingstation-cloud](https://github.com/opencolin/dockingstation-cloud)** - Cloud infrastructure for dockingstation
+
+### OpenClaw Ecosystem
+
+- 🤞 **[openclaw](https://github.com/opencolin/openclaw)** - Your own personal AI assistant. Any OS. Any Platform. The lobster way
+- 🤞 **[openclaw-nebius](https://github.com/opencolin/openclaw-nebius)** - OpenClaw + Nebius: provider plugin, deployment UI, and Claude Code skill
+- 🤞 **[openclaw-deploy](https://github.com/opencolin/openclaw-deploy)** - Deploy OpenClaw AI agents with Token Factory and Nebius Cloud
+- 🔌 **[openclaw-nebius-plugin](https://github.com/opencolin/openclaw-nebius-plugin)** - Nebius Token Factory provider plugin for OpenClaw — 44+ open-source models via single endpoint
+- 🐙 **[kubeclaw](https://github.com/opencolin/kubeclaw)** - Production-ready toolkit for deploying OpenClaw/NemoClaw on Nebius Managed Kubernetes — Helm chart, GPU config, monitoring, security hardening
+- 📧 **[clawcamp](https://github.com/opencolin/clawcamp)** - ClawCamp community platform
+- 🤞 **[clawcamp-site](https://github.com/opencolin/clawcamp-site)** - [claw.camp](https://claw.camp) — the live ClawCamp network site: events, chapters, tutorials, speakers, dark mode
+- 📸 **[clawcam](https://github.com/opencolin/clawcam)** - Clawcam — live claw machine camera feed
+- 🤖 **landing-page** (closed source) - ClawdBots — pre-configured OpenClaw bots on Kubernetes
+
+### Nebius AI Cloud
+
+- 🧠 **[nebius-skill](https://github.com/opencolin/nebius-skill)** - Dual-compatible Claude Code + OpenClaw skill for managing Nebius AI Cloud via CLI
+- ☁️ **[NemoClaw-Cloud](https://github.com/opencolin/NemoClaw-Cloud)** - One-script setup: NemoClaw + Nemotron on Nebius GPU VMs
+- 🧰 **[codex-nebius](https://github.com/opencolin/codex-nebius)** - Nebius tooling for Codex workflows
+- 📅 **[ConferenceAgent](https://github.com/nebiusbuild/ConferenceAgent)** - Book meetings at conferences handling all team calendars and room assignments
+- 🌐 **[nebius-build-site](https://github.com/opencolin/nebius-build-site)** - Nebius.Build SF event site
+
+### CrewAI
+
+- 🎯 **[accenture-adm-crew](https://github.com/opencolin/accenture-adm-crew)** - Accenture ADM CrewAI autonomous development agent
+- ⌚ **[Wearable-Crew-AI](https://github.com/opencolin/Wearable-Crew-AI)** - Multi-agent AI platform dashboard for wearable device integrations
+- 🐸 **[crewai-devrel](https://github.com/opencolin/crewai-devrel)** - Developer relations strategy for CrewAI
+- 🤖 **[ralphwiggum](https://github.com/opencolin/ralphwiggum)** - Autonomous iterative development using CrewAI
+- 🔄 **[ralphcrew](https://github.com/opencolin/ralphcrew)** - CrewAI Flows + Crews iterative dev loop
+- 🏆 **[crew-contributors](https://github.com/opencolin/crew-contributors)** - CrewAI Contributors Leaderboard
+
+### Other Projects
+
+- 📡 **[Bastion](https://bastion-bice.vercel.app)** - Hardware-agnostic fleet control plane for event-connectivity companies — one screen across their Starlink, Peplink & Ubiquiti gear, remote access, and white-label SLA reports. Free multi-vendor monitoring + festival sibling [Playa Kit](https://playakit.vercel.app)
+- 📅 **[massive-meetup](https://github.com/opencolin/massive-meetup)** - Meetup and event tooling built with TypeScript
+- 📊 **[foss-affiliate-dashboard](https://github.com/opencolin/foss-affiliate-dashboard)** - Live comparison dashboard for FOSS affiliate tools: Mautic, Raider, and Weferral
+- 🚀 **[Eventsea-Landing-Page](https://github.com/opencolin/Eventsea-Landing-Page)** - Landing page for Eventsy, AI copilot for event organizers
+- 🧲 **[laundrylobster](https://github.com/opencolin/laundrylobster)** - LaundryLobster — wholesome laundry pickup + delivery (Next.js)
+- 🎮 **[cue2](https://github.com/opencolin/cue2)** - Your next move, on cue
+- 🏰 **[365-castle-logos](https://github.com/sandbox-safemode/365-castle-logos)** - 365 unique castle logo designs — one for every day of the year
+
+### MCP Servers
+
+- 🧩 **[nebius-mcp](https://github.com/opencolin/nebius-mcp)** - MCP tooling for Nebius workflows
+- 📦 **[contree-mcp](https://github.com/opencolin/contree-mcp)** - MCP server for ConTree — sandboxed cloud containers for AI agents with full root, network, and persistent images
+- 🧩 **[memori-mcp](https://github.com/opencolin/memori-mcp)** - Security-first MCP server exposing Memori-backed remember/recall tools for IDE agents
+- 🔮 **[MinecraftPortal](https://github.com/opencolin/MinecraftPortal)** - Omi MCP server dashboard for managing conversations and memories
+- 🟣 **[polygon-mcp](https://github.com/Dablclub/polygon-mcp)** - Polygon MCP server (6 stars)
+- 🧩 **[mcp-server](https://github.com/merakimiles/mcp-server)** - Meraki MCP Server
+
 ## 🚢 The Fleet — 50 products, one studio
 
 A 50-startup portfolio built on a single platform: every app gets a branded page, a waitlist, analytics instrumentation, and a one-command go-live. **[Browse the live directory →](https://dotagent.domains/fleet/)**
@@ -108,73 +175,6 @@ A 50-startup portfolio built on a single platform: every app gets a branded page
 | **Golden Spur** | [goldenspurresort.com](https://dotagent.domains/fleet/goldenspurresort-com/) | book the West, done in style |
 
 🟢 = live on its own domain · others link to their staged preview · 6 live, 42 staged, 2 reserved
-
-## 🚀 Projects
-
-### Core Infrastructure & Agents
-
-- 🔒 **[moltypass](https://github.com/opencolin/moltypass)** - Encrypted vault for AI API keys. Browser + terminal. Touch ID. Capture straight from the provider’s console — no clipboard. [moltypass.app](https://moltypass.app)
-- 🧳 **[ice](https://github.com/opencolin/ice)** - Open-source collaborative IDE: humans + AI agents code together in one shared live workspace. Voice, chat, and its own git server. Self-hostable, Apache-2.0
-- 🖥️ **[dockingstation](https://github.com/opencolin/dockingstation)** - One container with 30 AI coding tools, web dashboard, browser terminal, and JSON API
-- 🔨 **[openengineer](https://github.com/opencolin/openengineer)** - 12 specialized AI agents for OpenCode — one per AI lab (Qwen, DeepSeek, NVIDIA, Google, Meta, Moonshot, Z.ai, NousResearch, OpenAI, MiniMax, PrimeIntellect)
-- 🤖 **[agentic-engineering](https://github.com/opencolin/agentic-engineering)** - Agentic Engineering reference — autonomous coding agents, patterns, and infrastructure
-- 🧩 **[claude-code-proxy](https://github.com/opencolin/claude-code-proxy)** - Claude Code to Token Factory API proxy
-- 📊 **[massive](https://github.com/opencolin/massive)** - Daily brand-visibility tracker built on Massive’s Web Render AI API
-- 🧠 **[massive-consensus](https://github.com/opencolin/massive-consensus)** - Multi-LLM consensus and lead enrichment built on Massive’s AI Chat API
-- 🍎 **[omlx](https://github.com/opencolin/omlx)** - LLM inference server with continuous batching and SSD caching for Apple Silicon, managed from the macOS menu bar
-- 👓 **[codeview](https://github.com/opencolin/codeview)** - View opencode sessions on Even Realities G2 smart glasses
-- 🧠 **[contree-skill](https://github.com/opencolin/contree-skill)** - Claude Code skill for using ConTree — sandboxed container execution with Git-like branching
-- 🎨 **[openclaude](https://github.com/opencolin/openclaude)** - Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and 200+ models
-- 🌐 **[opencode-cloud](https://github.com/opencolin/opencode-cloud)** - Cloud infrastructure for opencode
-- ☁️ **[dockingstation-cloud](https://github.com/opencolin/dockingstation-cloud)** - Cloud infrastructure for dockingstation
-
-### OpenClaw Ecosystem
-
-- 🤞 **[openclaw](https://github.com/opencolin/openclaw)** - Your own personal AI assistant. Any OS. Any Platform. The lobster way
-- 🤞 **[openclaw-nebius](https://github.com/opencolin/openclaw-nebius)** - OpenClaw + Nebius: provider plugin, deployment UI, and Claude Code skill
-- 🤞 **[openclaw-deploy](https://github.com/opencolin/openclaw-deploy)** - Deploy OpenClaw AI agents with Token Factory and Nebius Cloud
-- 🔌 **[openclaw-nebius-plugin](https://github.com/opencolin/openclaw-nebius-plugin)** - Nebius Token Factory provider plugin for OpenClaw — 44+ open-source models via single endpoint
-- 🐙 **[kubeclaw](https://github.com/opencolin/kubeclaw)** - Production-ready toolkit for deploying OpenClaw/NemoClaw on Nebius Managed Kubernetes — Helm chart, GPU config, monitoring, security hardening
-- 📧 **[clawcamp](https://github.com/opencolin/clawcamp)** - ClawCamp community platform
-- 🤞 **[clawcamp-site](https://github.com/opencolin/clawcamp-site)** - [claw.camp](https://claw.camp) — the live ClawCamp network site: events, chapters, tutorials, speakers, dark mode
-- 📸 **[clawcam](https://github.com/opencolin/clawcam)** - Clawcam — live claw machine camera feed
-- 🤖 **landing-page** (closed source) - ClawdBots — pre-configured OpenClaw bots on Kubernetes
-
-### Nebius AI Cloud
-
-- 🧠 **[nebius-skill](https://github.com/opencolin/nebius-skill)** - Dual-compatible Claude Code + OpenClaw skill for managing Nebius AI Cloud via CLI
-- ☁️ **[NemoClaw-Cloud](https://github.com/opencolin/NemoClaw-Cloud)** - One-script setup: NemoClaw + Nemotron on Nebius GPU VMs
-- 🧰 **[codex-nebius](https://github.com/opencolin/codex-nebius)** - Nebius tooling for Codex workflows
-- 📅 **[ConferenceAgent](https://github.com/nebiusbuild/ConferenceAgent)** - Book meetings at conferences handling all team calendars and room assignments
-- 🌐 **[nebius-build-site](https://github.com/opencolin/nebius-build-site)** - Nebius.Build SF event site
-
-### CrewAI
-
-- 🎯 **[accenture-adm-crew](https://github.com/opencolin/accenture-adm-crew)** - Accenture ADM CrewAI autonomous development agent
-- ⌚ **[Wearable-Crew-AI](https://github.com/opencolin/Wearable-Crew-AI)** - Multi-agent AI platform dashboard for wearable device integrations
-- 🐸 **[crewai-devrel](https://github.com/opencolin/crewai-devrel)** - Developer relations strategy for CrewAI
-- 🤖 **[ralphwiggum](https://github.com/opencolin/ralphwiggum)** - Autonomous iterative development using CrewAI
-- 🔄 **[ralphcrew](https://github.com/opencolin/ralphcrew)** - CrewAI Flows + Crews iterative dev loop
-- 🏆 **[crew-contributors](https://github.com/opencolin/crew-contributors)** - CrewAI Contributors Leaderboard
-
-### Other Projects
-
-- 📡 **[Bastion](https://bastion-bice.vercel.app)** - Hardware-agnostic fleet control plane for event-connectivity companies — one screen across their Starlink, Peplink & Ubiquiti gear, remote access, and white-label SLA reports. Free multi-vendor monitoring + festival sibling [Playa Kit](https://playakit.vercel.app)
-- 📅 **[massive-meetup](https://github.com/opencolin/massive-meetup)** - Meetup and event tooling built with TypeScript
-- 📊 **[foss-affiliate-dashboard](https://github.com/opencolin/foss-affiliate-dashboard)** - Live comparison dashboard for FOSS affiliate tools: Mautic, Raider, and Weferral
-- 🚀 **[Eventsea-Landing-Page](https://github.com/opencolin/Eventsea-Landing-Page)** - Landing page for Eventsy, AI copilot for event organizers
-- 🧲 **[laundrylobster](https://github.com/opencolin/laundrylobster)** - LaundryLobster — wholesome laundry pickup + delivery (Next.js)
-- 🎮 **[cue2](https://github.com/opencolin/cue2)** - Your next move, on cue
-- 🏰 **[365-castle-logos](https://github.com/sandbox-safemode/365-castle-logos)** - 365 unique castle logo designs — one for every day of the year
-
-### MCP Servers
-
-- 🧩 **[nebius-mcp](https://github.com/opencolin/nebius-mcp)** - MCP tooling for Nebius workflows
-- 📦 **[contree-mcp](https://github.com/opencolin/contree-mcp)** - MCP server for ConTree — sandboxed cloud containers for AI agents with full root, network, and persistent images
-- 🧩 **[memori-mcp](https://github.com/opencolin/memori-mcp)** - Security-first MCP server exposing Memori-backed remember/recall tools for IDE agents
-- 🔮 **[MinecraftPortal](https://github.com/opencolin/MinecraftPortal)** - Omi MCP server dashboard for managing conversations and memories
-- 🟣 **[polygon-mcp](https://github.com/Dablclub/polygon-mcp)** - Polygon MCP server (6 stars)
-- 🧩 **[mcp-server](https://github.com/merakimiles/mcp-server)** - Meraki MCP Server
 
 ## 🏢 Organizations & Communities
 
