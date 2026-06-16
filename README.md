@@ -17,39 +17,15 @@
 ## ⭐ Currently building
 
 🔒 **[Moltypass](https://moltypass.app)** — *Your API keys are credentials. Stop treating them like environment variables.*
-
-The password manager AI keys never had. One vault for the browser, the terminal, and every tool in between. Touch ID unlock on macOS. Capture keys straight from the provider’s console without ever copying. Rotate or revoke in one click. See every call that ever used one.
-
 🌐 **[moltypass.app](https://moltypass.app)** · 🐙 **[github.com/opencolin/moltypass](https://github.com/opencolin/moltypass)** · 📦 `brew install moltypass`
-
 ✨ **[Superslide](https://superslide.fun)** — *Your deck deserves better than a PDF.*
-
-Drop your PPTX, PDF, Keynote, or Markdown — get back a fully interactive web slideshow themed to your brand. Real React + shadcn + Three.js scenes, not divs pretending to be slides. AI-classified slide kinds (title / stats / chart / comparison / hero3d / code / quote / timeline), ElevenLabs narration with auto-advance "podcast mode", and a BYOK key flow when the shared credits run out. Deploys as a real Next.js app you own.
-
 🌐 **[superslide.fun](https://superslide.fun)** · 🐙 **[github.com/opencolin/superslide](https://github.com/opencolin/superslide)** · 🎬 **[live demo](https://superslide.fun/demo)**
-
 🧳 **[ICE](https://github.com/opencolin/ice)** — *Code with friends — human and AI — in one shared live workspace.*
-
-The open-source collaborative IDE where your whole squad edits the same repo in real time. AI coding agents are first-class teammates: they edit *through* the shared CRDT doc — attributable, undoable, behind an approval gate — not in a side channel. Pair over voice and chat, and ship from a server you own that comes with its **own built-in git server**. Self-hostable in one `docker compose up`, Apache-2.0. Built v0.1 → v2.0: live multiplayer editing, a CRDT↔git convergence seam, a whole *squad* of agents co-editing concurrently, and a Redis scale-out path.
-
 🐙 **[github.com/opencolin/ice](https://github.com/opencolin/ice)** · 🧳 self-host: `docker compose up` · 📋 **[v3 roadmap](https://github.com/opencolin/ice/blob/main/docs/ROADMAP_V3.md)**
-
 🤞 **[ClawCamp](https://claw.camp)** — *Join the personal AI revolution — in your city.*
-
-A global network of AI builder camps: workshops, demo days, hackathons, and startup showcases for the OpenClaw community. Find a chapter near you on an interactive world map, RSVP to events worldwide, browse the tutorial library and speakers, toggle dark mode, or apply to start your own chapter. Vanilla HTML/CSS/JS on a Supabase backend, shipped continuously on Vercel.
-
 🌐 **[claw.camp](https://claw.camp)** · 🐙 **[github.com/opencolin/clawcamp-site](https://github.com/opencolin/clawcamp-site)**
-
 📡 **[Bastion](https://bastion-bice.vercel.app)** — *The operating layer for the companies that power live events.*
-
-Festivals run on a patchwork of Starlink dishes, Peplink routers, and solar batteries — and the ~45 companies that deploy them all fly blind on four vendor dashboards and a spreadsheet. **Bastion Command** is the hardware-agnostic fleet control plane that gives them one screen across the gear they *already own*: live battery / throughput / uptime telemetry, remote access that kills the truck-roll, and white-label SLA reports that get them paid. Free multi-vendor monitoring is the wedge — the one thing the Peplink, Ubiquiti, and Starlink consoles each *can’t* do — with rugged Bastion nodes and the festival-native sibling **Playa Kit** riding on top.
-
 🌐 **[bastion-bice.vercel.app](https://bastion-bice.vercel.app)** · 🎪 **[playakit.vercel.app](https://playakit.vercel.app)**
-
-☕ **[The Coffee Table Book](https://thecoffeetablebook.org)** — *The world’s most interesting stories about the substances that change the mind.*
-
-A museum-grade digital coffee table book on the culture, science, history, and **harm reduction** of psychoactive drugs — built on DanceSafe’s ethos. No how-to and no doses: a substance-by-substance safety reference (risks, the combinations that can kill you, and aftercare), an "Index of Molecules" rendered from real chemical data, a chapter on Judaism & the altered mind, and a public-domain art gallery. A proof of concept for a book → series → platform → mission franchise.
-
 🌐 **[thecoffeetablebook.org](https://thecoffeetablebook.org)**
 
 ## 🚢 The Fleet — 50 products, one studio
