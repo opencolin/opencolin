@@ -16,17 +16,12 @@
 
 ## ⭐ Currently building
 
-🔒 **[Moltypass](https://moltypass.app)** — *Your API keys are credentials. Stop treating them like environment variables.*
-🌐 **[moltypass.app](https://moltypass.app)** · 🐙 **[github.com/opencolin/moltypass](https://github.com/opencolin/moltypass)** · 📦 `brew install moltypass`
-✨ **[Superslide](https://superslide.fun)** — *Your deck deserves better than a PDF.*
-🌐 **[superslide.fun](https://superslide.fun)** · 🐙 **[github.com/opencolin/superslide](https://github.com/opencolin/superslide)** · 🎬 **[live demo](https://superslide.fun/demo)**
-🧳 **[ICE](https://github.com/opencolin/ice)** — *Code with friends — human and AI — in one shared live workspace.*
-🐙 **[github.com/opencolin/ice](https://github.com/opencolin/ice)** · 🧳 self-host: `docker compose up` · 📋 **[v3 roadmap](https://github.com/opencolin/ice/blob/main/docs/ROADMAP_V3.md)**
-🤞 **[ClawCamp](https://claw.camp)** — *Join the personal AI revolution — in your city.*
-🌐 **[claw.camp](https://claw.camp)** · 🐙 **[github.com/opencolin/clawcamp-site](https://github.com/opencolin/clawcamp-site)**
-📡 **[Bastion](https://bastion-bice.vercel.app)** — *The operating layer for the companies that power live events.*
-🌐 **[bastion-bice.vercel.app](https://bastion-bice.vercel.app)** · 🎪 **[playakit.vercel.app](https://playakit.vercel.app)**
-🌐 **[thecoffeetablebook.org](https://thecoffeetablebook.org)**
+- 🔒 **[Moltypass](https://moltypass.app)** — Encrypted vault for AI API keys. Browser + terminal. Touch ID.
+- ✨ **[Superslide](https://superslide.fun)** — Drop your deck, get an interactive web slideshow. [live demo](https://superslide.fun/demo)
+- 🧳 **[ICE](https://github.com/opencolin/ice)** — Open-source collaborative IDE: humans + AI agents in one shared live workspace
+- 🤞 **[ClawCamp](https://claw.camp)** — Global network of AI builder camps: workshops, demo days, hackathons
+- 📡 **[Bastion](https://bastion-bice.vercel.app)** — Hardware-agnostic fleet control plane for live-event connectivity companies
+- ☕ **[The Coffee Table Book](https://thecoffeetablebook.org)** — Digital coffee table book on culture, science, and harm reduction
 
 ## 🚢 The Fleet — 50 products, one studio
 
