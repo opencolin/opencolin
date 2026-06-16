@@ -20,25 +20,25 @@
 
 The password manager AI keys never had. One vault for the browser, the terminal, and every tool in between. Touch ID unlock on macOS. Capture keys straight from the provider's console without ever copying. Rotate or revoke in one click. See every call that ever used one.
 
-🌐 **[moltypass.app](https://moltypass.app)** · 🐙 **[github.com/opencolin/moltypass](https://github.com/opencolin/moltypass)** · 📦 `brew install moltypass`
+🌐 **[moltypass.app](https://moltypass.app)** · 🐙 **[github.com/colygon/moltypass](https://github.com/colygon/moltypass)** · 📦 `brew install moltypass`
 
 ✨ **[Superslide](https://superslide.fun)** — *Your deck deserves better than a PDF.*
 
 Drop your PPTX, PDF, Keynote, or Markdown — get back a fully interactive web slideshow themed to your brand. Real React + shadcn + Three.js scenes, not divs pretending to be slides. AI-classified slide kinds (title / stats / chart / comparison / hero3d / code / quote / timeline), ElevenLabs narration with auto-advance "podcast mode", and a BYOK key flow when the shared credits run out. Deploys as a real Next.js app you own.
 
-🌐 **[superslide.fun](https://superslide.fun)** · 🐙 **[github.com/opencolin/superslide](https://github.com/opencolin/superslide)** · 🎬 **[live demo](https://superslide.fun/demo)**
+🌐 **[superslide.fun](https://superslide.fun)** · 🐙 **[github.com/colygon/superslide](https://github.com/colygon/superslide)** · 🎬 **[live demo](https://superslide.fun/demo)**
 
-🧊 **[ICE](https://github.com/opencolin/ice)** — *Code with friends — human and AI — in one shared live workspace.*
+🧊 **[ICE](https://github.com/colygon/ice)** — *Code with friends — human and AI — in one shared live workspace.*
 
 The open-source collaborative IDE where your whole squad edits the same repo in real time. AI coding agents are first-class teammates: they edit *through* the shared CRDT doc — attributable, undoable, behind an approval gate — not in a side channel. Pair over voice and chat, and ship from a server you own that comes with its **own built-in git server**. Self-hostable in one `docker compose up`, Apache-2.0. Built v0.1 → v2.0: live multiplayer editing, a CRDT↔git convergence seam, a whole *squad* of agents co-editing concurrently, and a Redis scale-out path.
 
-🐙 **[github.com/opencolin/ice](https://github.com/opencolin/ice)** · 🧊 self-host: `docker compose up` · 📋 **[v3 roadmap](https://github.com/opencolin/ice/blob/main/docs/ROADMAP_V3.md)**
+🐙 **[github.com/colygon/ice](https://github.com/colygon/ice)** · 🧊 self-host: `docker compose up` · 📋 **[v3 roadmap](https://github.com/colygon/ice/blob/main/docs/ROADMAP_V3.md)**
 
 🦞 **[ClawCamp](https://claw.camp)** — *Join the personal AI revolution — in your city.*
 
 A global network of AI builder camps: workshops, demo days, hackathons, and startup showcases for the OpenClaw community. Find a chapter near you on an interactive world map, RSVP to events worldwide, browse the tutorial library and speakers, toggle dark mode, or apply to start your own chapter. Vanilla HTML/CSS/JS on a Supabase backend, shipped continuously on Vercel.
 
-🌐 **[claw.camp](https://claw.camp)** · 🐙 **[github.com/opencolin/clawcamp-site](https://github.com/opencolin/clawcamp-site)**
+🌐 **[claw.camp](https://claw.camp)** · 🐙 **[github.com/colygon/clawcamp-site](https://github.com/colygon/clawcamp-site)**
 
 📡 **[Bastion](https://bastion-bice.vercel.app)** — *The operating layer for the companies that power live events.*
 
@@ -142,66 +142,66 @@ A 50-startup portfolio built on a single platform: every app gets a branded page
 
 ### Core Infrastructure & Agents
 
-- 🔒 **[moltypass](https://github.com/opencolin/moltypass)** - Encrypted vault for AI API keys. Browser + terminal. Touch ID. Capture straight from the provider's console — no clipboard. [moltypass.app](https://moltypass.app)
-- 🧊 **[ice](https://github.com/opencolin/ice)** - Open-source collaborative IDE: humans + AI agents code together in one shared live workspace. Voice, chat, and its own git server. Self-hostable, Apache-2.0
-- 🖥️ **[dockingstation](https://github.com/opencolin/dockingstation)** - One container with 30 AI coding tools, web dashboard, browser terminal, and JSON API
-- 🔨 **[openengineer](https://github.com/opencolin/openengineer)** - 12 specialized AI agents for OpenCode — one per AI lab (Qwen, DeepSeek, NVIDIA, Google, Meta, Moonshot, Z.ai, NousResearch, OpenAI, MiniMax, PrimeIntellect)
-- 🤖 **[agentic-engineering](https://github.com/opencolin/agentic-engineering)** - Agentic Engineering reference — autonomous coding agents, patterns, and infrastructure
-- 🧩 **[claude-code-proxy](https://github.com/opencolin/claude-code-proxy)** - Claude Code to Token Factory API proxy
-- 📊 **[massive](https://github.com/opencolin/massive)** - Daily brand-visibility tracker built on Massive's Web Render AI API
-- 🧠 **[massive-consensus](https://github.com/opencolin/massive-consensus)** - Multi-LLM consensus and lead enrichment built on Massive's AI Chat API
-- 🍎 **[omlx](https://github.com/opencolin/omlx)** - LLM inference server with continuous batching and SSD caching for Apple Silicon, managed from the macOS menu bar
-- 👓 **[codeview](https://github.com/opencolin/codeview)** - View opencode sessions on Even Realities G2 smart glasses
-- 🧠 **[contree-skill](https://github.com/opencolin/contree-skill)** - Claude Code skill for using ConTree — sandboxed container execution with Git-like branching
-- 🎨 **[openclaude](https://github.com/opencolin/openclaude)** - Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and 200+ models
-- 🌐 **[opencode-cloud](https://github.com/opencolin/opencode-cloud)** - Cloud infrastructure for opencode
-- ☁️ **[dockingstation-cloud](https://github.com/opencolin/dockingstation-cloud)** - Cloud infrastructure for dockingstation
+- 🔒 **[moltypass](https://github.com/colygon/moltypass)** - Encrypted vault for AI API keys. Browser + terminal. Touch ID. Capture straight from the provider's console — no clipboard. [moltypass.app](https://moltypass.app)
+- 🧊 **[ice](https://github.com/colygon/ice)** - Open-source collaborative IDE: humans + AI agents code together in one shared live workspace. Voice, chat, and its own git server. Self-hostable, Apache-2.0
+- 🖥️ **[dockingstation](https://github.com/colygon/dockingstation)** - One container with 30 AI coding tools, web dashboard, browser terminal, and JSON API
+- 🔨 **[openengineer](https://github.com/colygon/openengineer)** - 12 specialized AI agents for OpenCode — one per AI lab (Qwen, DeepSeek, NVIDIA, Google, Meta, Moonshot, Z.ai, NousResearch, OpenAI, MiniMax, PrimeIntellect)
+- 🤖 **[agentic-engineering](https://github.com/colygon/agentic-engineering)** - Agentic Engineering reference — autonomous coding agents, patterns, and infrastructure
+- 🧩 **[claude-code-proxy](https://github.com/colygon/claude-code-proxy)** - Claude Code to Token Factory API proxy
+- 📊 **[massive](https://github.com/colygon/massive)** - Daily brand-visibility tracker built on Massive's Web Render AI API
+- 🧠 **[massive-consensus](https://github.com/colygon/massive-consensus)** - Multi-LLM consensus and lead enrichment built on Massive's AI Chat API
+- 🍎 **[omlx](https://github.com/colygon/omlx)** - LLM inference server with continuous batching and SSD caching for Apple Silicon, managed from the macOS menu bar
+- 👓 **[codeview](https://github.com/colygon/codeview)** - View opencode sessions on Even Realities G2 smart glasses
+- 🧠 **[contree-skill](https://github.com/colygon/contree-skill)** - Claude Code skill for using ConTree — sandboxed container execution with Git-like branching
+- 🎨 **[openclaude](https://github.com/colygon/openclaude)** - Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and 200+ models
+- 🌐 **[opencode-cloud](https://github.com/colygon/opencode-cloud)** - Cloud infrastructure for opencode
+- ☁️ **[dockingstation-cloud](https://github.com/colygon/dockingstation-cloud)** - Cloud infrastructure for dockingstation
 
 ### OpenClaw Ecosystem
 
-- 🦞 **[openclaw](https://github.com/opencolin/openclaw)** - Your own personal AI assistant. Any OS. Any Platform. The lobster way
-- 🦞 **[openclaw-nebius](https://github.com/opencolin/openclaw-nebius)** - OpenClaw + Nebius: provider plugin, deployment UI, and Claude Code skill
-- 🦞 **[openclaw-deploy](https://github.com/opencolin/openclaw-deploy)** - Deploy OpenClaw AI agents with Token Factory and Nebius Cloud
-- 🔌 **[openclaw-nebius-plugin](https://github.com/opencolin/openclaw-nebius-plugin)** - Nebius Token Factory provider plugin for OpenClaw — 44+ open-source models via single endpoint
-- 🐙 **[kubeclaw](https://github.com/opencolin/kubeclaw)** - Production-ready toolkit for deploying OpenClaw/NemoClaw on Nebius Managed Kubernetes — Helm chart, GPU config, monitoring, security hardening
-- 📧 **[clawcamp](https://github.com/opencolin/clawcamp)** - ClawCamp community platform
-- 🦞 **[clawcamp-site](https://github.com/opencolin/clawcamp-site)** - [claw.camp](https://claw.camp) — the live ClawCamp network site: events, chapters, tutorials, speakers, dark mode
-- 📸 **[clawcam](https://github.com/opencolin/clawcam)** - Clawcam — live claw machine camera feed
+- 🦞 **[openclaw](https://github.com/colygon/openclaw)** - Your own personal AI assistant. Any OS. Any Platform. The lobster way
+- 🦞 **[openclaw-nebius](https://github.com/colygon/openclaw-nebius)** - OpenClaw + Nebius: provider plugin, deployment UI, and Claude Code skill
+- 🦞 **[openclaw-deploy](https://github.com/colygon/openclaw-deploy)** - Deploy OpenClaw AI agents with Token Factory and Nebius Cloud
+- 🔌 **[openclaw-nebius-plugin](https://github.com/colygon/openclaw-nebius-plugin)** - Nebius Token Factory provider plugin for OpenClaw — 44+ open-source models via single endpoint
+- 🐙 **[kubeclaw](https://github.com/colygon/kubeclaw)** - Production-ready toolkit for deploying OpenClaw/NemoClaw on Nebius Managed Kubernetes — Helm chart, GPU config, monitoring, security hardening
+- 📧 **[clawcamp](https://github.com/colygon/clawcamp)** - ClawCamp community platform
+- 🦞 **[clawcamp-site](https://github.com/colygon/clawcamp-site)** - [claw.camp](https://claw.camp) — the live ClawCamp network site: events, chapters, tutorials, speakers, dark mode
+- 📸 **[clawcam](https://github.com/colygon/clawcam)** - Clawcam — live claw machine camera feed
 - 🤖 **landing-page** (closed source) - ClawdBots — pre-configured OpenClaw bots on Kubernetes
 
 ### Nebius AI Cloud
 
-- 🧠 **[nebius-skill](https://github.com/opencolin/nebius-skill)** - Dual-compatible Claude Code + OpenClaw skill for managing Nebius AI Cloud via CLI
-- ☁️ **[NemoClaw-Cloud](https://github.com/opencolin/NemoClaw-Cloud)** - One-script setup: NemoClaw + Nemotron on Nebius GPU VMs
-- 🧰 **[codex-nebius](https://github.com/opencolin/codex-nebius)** - Nebius tooling for Codex workflows
+- 🧠 **[nebius-skill](https://github.com/colygon/nebius-skill)** - Dual-compatible Claude Code + OpenClaw skill for managing Nebius AI Cloud via CLI
+- ☁️ **[NemoClaw-Cloud](https://github.com/colygon/NemoClaw-Cloud)** - One-script setup: NemoClaw + Nemotron on Nebius GPU VMs
+- 🧰 **[codex-nebius](https://github.com/colygon/codex-nebius)** - Nebius tooling for Codex workflows
 - 📅 **[ConferenceAgent](https://github.com/nebiusbuild/ConferenceAgent)** - Book meetings at conferences handling all team calendars and room assignments
-- 🌐 **[nebius-build-site](https://github.com/opencolin/nebius-build-site)** - Nebius.Build SF event site
+- 🌐 **[nebius-build-site](https://github.com/colygon/nebius-build-site)** - Nebius.Build SF event site
 
 ### CrewAI
 
-- 🎯 **[accenture-adm-crew](https://github.com/opencolin/accenture-adm-crew)** - Accenture ADM CrewAI autonomous development agent
-- ⌚ **[Wearable-Crew-AI](https://github.com/opencolin/Wearable-Crew-AI)** - Multi-agent AI platform dashboard for wearable device integrations
-- 🐸 **[crewai-devrel](https://github.com/opencolin/crewai-devrel)** - Developer relations strategy for CrewAI
-- 🤖 **[ralphwiggum](https://github.com/opencolin/ralphwiggum)** - Autonomous iterative development using CrewAI
-- 🔄 **[ralphcrew](https://github.com/opencolin/ralphcrew)** - CrewAI Flows + Crews iterative dev loop
-- 🏆 **[crew-contributors](https://github.com/opencolin/crew-contributors)** - CrewAI Contributors Leaderboard
+- 🎯 **[accenture-adm-crew](https://github.com/colygon/accenture-adm-crew)** - Accenture ADM CrewAI autonomous development agent
+- ⌚ **[Wearable-Crew-AI](https://github.com/colygon/Wearable-Crew-AI)** - Multi-agent AI platform dashboard for wearable device integrations
+- 🐸 **[crewai-devrel](https://github.com/colygon/crewai-devrel)** - Developer relations strategy for CrewAI
+- 🤖 **[ralphwiggum](https://github.com/colygon/ralphwiggum)** - Autonomous iterative development using CrewAI
+- 🔄 **[ralphcrew](https://github.com/colygon/ralphcrew)** - CrewAI Flows + Crews iterative dev loop
+- 🏆 **[crew-contributors](https://github.com/colygon/crew-contributors)** - CrewAI Contributors Leaderboard
 
 ### Other Projects
 
 - 📡 **[Bastion](https://bastion-bice.vercel.app)** - Hardware-agnostic fleet control plane for event-connectivity companies — one screen across their Starlink, Peplink & Ubiquiti gear, remote access, and white-label SLA reports. Free multi-vendor monitoring + festival sibling [Playa Kit](https://playakit.vercel.app)
-- 📅 **[massive-meetup](https://github.com/opencolin/massive-meetup)** - Meetup and event tooling built with TypeScript
-- 📊 **[foss-affiliate-dashboard](https://github.com/opencolin/foss-affiliate-dashboard)** - Live comparison dashboard for FOSS affiliate tools: Mautic, Raider, and Weferral
-- 🚀 **[Eventsea-Landing-Page](https://github.com/opencolin/Eventsea-Landing-Page)** - Landing page for Eventsy, AI copilot for event organizers
-- 🧺 **[laundrylobster](https://github.com/opencolin/laundrylobster)** - LaundryLobster — wholesome laundry pickup + delivery (Next.js)
-- 🎮 **[cue2](https://github.com/opencolin/cue2)** - Your next move, on cue
+- 📅 **[massive-meetup](https://github.com/colygon/massive-meetup)** - Meetup and event tooling built with TypeScript
+- 📊 **[foss-affiliate-dashboard](https://github.com/colygon/foss-affiliate-dashboard)** - Live comparison dashboard for FOSS affiliate tools: Mautic, Raider, and Weferral
+- 🚀 **[Eventsea-Landing-Page](https://github.com/colygon/Eventsea-Landing-Page)** - Landing page for Eventsy, AI copilot for event organizers
+- 🧺 **[laundrylobster](https://github.com/colygon/laundrylobster)** - LaundryLobster — wholesome laundry pickup + delivery (Next.js)
+- 🎮 **[cue2](https://github.com/colygon/cue2)** - Your next move, on cue
 - 🏰 **[365-castle-logos](https://github.com/sandbox-safemode/365-castle-logos)** - 365 unique castle logo designs — one for every day of the year
 
 ### MCP Servers
 
-- 🧩 **[nebius-mcp](https://github.com/opencolin/nebius-mcp)** - MCP tooling for Nebius workflows
-- 📦 **[contree-mcp](https://github.com/opencolin/contree-mcp)** - MCP server for ConTree — sandboxed cloud containers for AI agents with full root, network, and persistent images
-- 🧩 **[memori-mcp](https://github.com/opencolin/memori-mcp)** - Security-first MCP server exposing Memori-backed remember/recall tools for IDE agents
-- 🔮 **[MinecraftPortal](https://github.com/opencolin/MinecraftPortal)** - Omi MCP server dashboard for managing conversations and memories
+- 🧩 **[nebius-mcp](https://github.com/colygon/nebius-mcp)** - MCP tooling for Nebius workflows
+- 📦 **[contree-mcp](https://github.com/colygon/contree-mcp)** - MCP server for ConTree — sandboxed cloud containers for AI agents with full root, network, and persistent images
+- 🧩 **[memori-mcp](https://github.com/colygon/memori-mcp)** - Security-first MCP server exposing Memori-backed remember/recall tools for IDE agents
+- 🔮 **[MinecraftPortal](https://github.com/colygon/MinecraftPortal)** - Omi MCP server dashboard for managing conversations and memories
 - 🟣 **[polygon-mcp](https://github.com/Dablclub/polygon-mcp)** - Polygon MCP server (6 stars)
 - 🧩 **[mcp-server](https://github.com/merakimiles/mcp-server)** - Meraki MCP Server
 
@@ -239,15 +239,15 @@ A 50-startup portfolio built on a single platform: every app gets a branded page
 
 ### [Safemode](https://github.com/safemodedev)
 
-- 🌐 **[safemode-site](https://github.com/opencolin/safemode-site)** - SafeMode — Deploy AI Agents for $1/month
+- 🌐 **[safemode-site](https://github.com/colygon/safemode-site)** - SafeMode — Deploy AI Agents for $1/month
 - 🖥️ **os** (closed source) - Safemode Operating System
 
 ### [Frontier Tower](https://github.com/frontiertower) — SF Builder Community
 
 - 🗺️ **[floorfinder](https://github.com/frontiertower/floorfinder)** - Internal maps of Frontier Tower
-- 📶 **[frontierwifi](https://github.com/opencolin/frontierwifi)** - Captive portal system managing WiFi access for Frontier Tower
+- 📶 **[frontierwifi](https://github.com/colygon/frontierwifi)** - Captive portal system managing WiFi access for Frontier Tower
 - 📶 **[wifi](https://github.com/frontiertower/wifi)** - Frontier Tower WiFi infrastructure
-- 📰 **[ftreport](https://github.com/opencolin/ftreport)** - Frontier Tower report
+- 📰 **[ftreport](https://github.com/colygon/ftreport)** - Frontier Tower report
 - 📰 **frontier-tower-newsletter** (closed source) - Newsletter
 
 ### [Cisco Meraki](https://github.com/merakimiles)
@@ -262,7 +262,7 @@ A 50-startup portfolio built on a single platform: every app gets a branded page
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/opencolin)
+![GitHub Contribution Graph](https://ghchart.rshah.org/colygon)
 
 ## What I'm Building
 
