@@ -29,8 +29,12 @@
 
 - 🔒 **[moltypass](https://github.com/opencolin/moltypass)** - Encrypted vault for AI API keys. Browser + terminal. Touch ID. Capture straight from the provider’s console — no clipboard. [moltypass.app](https://moltypass.app)
 - 🧳 **[ice](https://github.com/opencolin/ice)** - Open-source collaborative IDE: humans + AI agents code together in one shared live workspace. Voice, chat, and its own git server. Self-hostable, Apache-2.0
+- 🏆 **[ensemble](https://github.com/opencolin/ensemble)** - ixio — coding-agent leaderboard (interface × compute). Aggregates public benchmarks + ConTree-sandbox runs. [ixio.com](https://ixio.com)
 - 🖥️ **[dockingstation](https://github.com/opencolin/dockingstation)** - One container with 30 AI coding tools, web dashboard, browser terminal, and JSON API
 - 🔨 **[openengineer](https://github.com/opencolin/openengineer)** - 12 specialized AI agents for OpenCode — one per AI lab (Qwen, DeepSeek, NVIDIA, Google, Meta, Moonshot, Z.ai, NousResearch, OpenAI, MiniMax, PrimeIntellect)
+- 📦 **[xo-monorepo](https://github.com/opencolin/xo-monorepo)** - XO platform monorepo — agent-workspace apps, control-plane services, and agent runtime kits (pnpm + Turborepo)
+- 🔁 **[self-improving-agents](https://github.com/opencolin/self-improving-agents)** - Patterns and infrastructure for agents that improve themselves
+- 🪪 **[aid-resolver](https://github.com/opencolin/aid-resolver)** - AID (Agent Identity & Discovery) v2 resolver/client in TypeScript — DNS discovery, .well-known fallback, PKA proof
 - 🤖 **[agentic-engineering](https://github.com/opencolin/agentic-engineering)** - Agentic Engineering reference — autonomous coding agents, patterns, and infrastructure
 - 🧩 **[claude-code-proxy](https://github.com/opencolin/claude-code-proxy)** - Claude Code to Token Factory API proxy
 - 📊 **[massive](https://github.com/opencolin/massive)** - Daily brand-visibility tracker built on Massive’s Web Render AI API
@@ -52,6 +56,8 @@
 - 📧 **[clawcamp](https://github.com/opencolin/clawcamp)** - ClawCamp community platform
 - 🤞 **[clawcamp-site](https://github.com/opencolin/clawcamp-site)** - [claw.camp](https://claw.camp) — the live ClawCamp network site: events, chapters, tutorials, speakers, dark mode
 - 📸 **[clawcam](https://github.com/opencolin/clawcam)** - Clawcam — live claw machine camera feed
+- 🎙️ **[clawsout](https://github.com/opencolin/clawsout)** - Turn any transcript into a realistic multi-voice podcast — with a comedy dial that goes claws out. BYO API keys
+- 🤞 **[nemoclaw-nebius](https://github.com/opencolin/nemoclaw-nebius)** - NemoClaw on Nebius — one-script GPU deploy
 - 🤖 **landing-page** (closed source) - ClawdBots — pre-configured OpenClaw bots on Kubernetes
 
 ### Nebius AI Cloud
@@ -59,6 +65,8 @@
 - 🧠 **[nebius-skill](https://github.com/opencolin/nebius-skill)** - Dual-compatible Claude Code + OpenClaw skill for managing Nebius AI Cloud via CLI
 - ☁️ **[NemoClaw-Cloud](https://github.com/opencolin/NemoClaw-Cloud)** - One-script setup: NemoClaw + Nemotron on Nebius GPU VMs
 - 🧰 **[codex-nebius](https://github.com/opencolin/codex-nebius)** - Nebius tooling for Codex workflows
+- 🌐 **[nebius-devsite](https://github.com/opencolin/nebius-devsite)** - Nebius Builders Network mockup — Next.js + Gravity UI + Directus + Typesense
+- 📖 **[nebius-ecosystem-cookbook](https://github.com/opencolin/nebius-ecosystem-cookbook)** - Nebius Ecosystem & Partners page + the full Token Factory Cookbook
 - 📅 **[ConferenceAgent](https://github.com/nebiusbuild/ConferenceAgent)** - Book meetings at conferences handling all team calendars and room assignments
 - 🌐 **[nebius-build-site](https://github.com/opencolin/nebius-build-site)** - Nebius.Build SF event site
 
@@ -74,6 +82,12 @@
 ### Other Projects
 
 - 📡 **[Bastion](https://bastion-bice.vercel.app)** - Hardware-agnostic fleet control plane for event-connectivity companies — one screen across their Starlink, Peplink & Ubiquiti gear, remote access, and white-label SLA reports. Free multi-vendor monitoring + festival sibling [Playa Kit](https://playakit.vercel.app)
+- 🛠️ **[buildership](https://github.com/opencolin/buildership)** - BuilderShip — three-week AI hackathon culminating on the Dragon Lady. Marketing site + builder console + backend
+- 🎬 **[demohunt](https://github.com/opencolin/demohunt)** - Doomscroll startup demo pitches. Vote, watch, contact
+- 🌱 **[flourishing-garden](https://github.com/opencolin/flourishing-garden)** - Community & events space for human flourishing — a house in SoMa, SF
+- 🪶 **[hermes-garden](https://github.com/opencolin/hermes-garden)** - Brand & design homage to Nous Research / Hermes Agent — guide + matching website
+- 🤝 **[sponsorship](https://github.com/opencolin/sponsorship)** - How to get sponsorships — a reusable Claude skill
+- 🎨 **[sidecar-logos](https://github.com/opencolin/sidecar-logos)** - 472 sidecar logo designs + voting site for the Sidecar startup
 - 📅 **[massive-meetup](https://github.com/opencolin/massive-meetup)** - Meetup and event tooling built with TypeScript
 - 📊 **[foss-affiliate-dashboard](https://github.com/opencolin/foss-affiliate-dashboard)** - Live comparison dashboard for FOSS affiliate tools: Mautic, Raider, and Weferral
 - 🚀 **[Eventsea-Landing-Page](https://github.com/opencolin/Eventsea-Landing-Page)** - Landing page for Eventsy, AI copilot for event organizers
