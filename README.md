@@ -16,6 +16,8 @@
 
 ## ⭐ Currently building
 
+- 🔌 **[claude-codex-nebius-proxy](https://github.com/opencolin/claude-codex-nebius-proxy)** — Claude Code + Codex CLI → Nebius bridge: converts `/v1/messages` & `/v1/responses` to OpenAI-compatible calls
+- 🧠 **[nebius-skill](https://github.com/opencolin/nebius-skill)** — Dual-compatible Claude Code + OpenClaw skill for managing Nebius AI Cloud via CLI
 - 🔒 **[Moltypass](https://moltypass.app)** — Encrypted vault for AI API keys. Browser + terminal. Touch ID.
 - ✨ **[Superslide](https://superslide.fun)** — Drop your deck, get an interactive web slideshow. [live demo](https://superslide.fun/demo)
 - 🧳 **[ICE](https://github.com/opencolin/ice)** — Open-source collaborative IDE: humans + AI agents in one shared live workspace
@@ -62,6 +64,7 @@
 
 ### Nebius AI Cloud
 
+- 🔌 **[claude-codex-nebius-proxy](https://github.com/opencolin/claude-codex-nebius-proxy)** - Claude Code + Codex CLI → Nebius bridge: converts `/v1/messages` & `/v1/responses` to OpenAI-compatible calls, with server-side web search and model routing
 - 🧠 **[nebius-skill](https://github.com/opencolin/nebius-skill)** - Dual-compatible Claude Code + OpenClaw skill for managing Nebius AI Cloud via CLI
 - ☁️ **[NemoClaw-Cloud](https://github.com/opencolin/NemoClaw-Cloud)** - One-script setup: NemoClaw + Nemotron on Nebius GPU VMs
 - 🧰 **[codex-nebius](https://github.com/opencolin/codex-nebius)** - Nebius tooling for Codex workflows
@@ -83,9 +86,11 @@
 
 - 📡 **[Bastion](https://bastion-bice.vercel.app)** - Hardware-agnostic fleet control plane for event-connectivity companies — one screen across their Starlink, Peplink & Ubiquiti gear, remote access, and white-label SLA reports. Free multi-vendor monitoring + festival sibling [Playa Kit](https://playakit.vercel.app)
 - 🛠️ **[buildership](https://github.com/opencolin/buildership)** - BuilderShip — three-week AI hackathon culminating on the Dragon Lady. Marketing site + builder console + backend
+- 🎟️ **[luma-clone](https://github.com/opencolin/luma-clone)** - Open-source, self-hostable clone of Luma — event pages, RSVPs, calendars & discovery. Next.js 16 + Drizzle + libSQL
 - 🎬 **[demohunt](https://github.com/opencolin/demohunt)** - Doomscroll startup demo pitches. Vote, watch, contact
 - 🌱 **[flourishing-garden](https://github.com/opencolin/flourishing-garden)** - Community & events space for human flourishing — a house in SoMa, SF
 - 🪶 **[hermes-garden](https://github.com/opencolin/hermes-garden)** - Brand & design homage to Nous Research / Hermes Agent — guide + matching website
+- 📣 **[aisa-devrel-site](https://github.com/opencolin/aisa-devrel-site)** - Outside-in DevRel strategy for AISA.one — the transaction network for the AI agent economy
 - 🤝 **[sponsorship](https://github.com/opencolin/sponsorship)** - How to get sponsorships — a reusable Claude skill
 - 🎨 **[sidecar-logos](https://github.com/opencolin/sidecar-logos)** - 472 sidecar logo designs + voting site for the Sidecar startup
 - 📅 **[massive-meetup](https://github.com/opencolin/massive-meetup)** - Meetup and event tooling built with TypeScript
