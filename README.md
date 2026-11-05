@@ -12,7 +12,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Web3](https://img.shields.io/badge/-Web3-F16822?style=flat-square&logo=web3.js&logoColor=white)
 
-> Building at the intersection of AI agents and community. Founder of [@dablclub](https://dabl.club) — SF's builder community. Dev Advocate at [Nebius](https://nebius.com). Ambassador Captain at [Omi](https://omi.me).
+> Building at the intersection of AI agents and community. Founder of [@dablclub](https://dabl.club) — SF's builder community. Building [Tenki](https://tenki.cloud) agent sandboxes at [Luxor](https://luxor.tech). Ambassador Captain at [Omi](https://omi.me).
 
 ## ⭐ Currently building
 
@@ -287,6 +287,7 @@ A 50-startup portfolio built on a single platform: every app gets a branded page
 
 ## What I’m Building
 
+- **Agent Sandboxes** - Disposable microVMs for coding agents, evals and RL rollouts with [Tenki](https://tenki.cloud) at Luxor
 - **AI Agent Infrastructure** - Making it easy to deploy and manage AI agents at scale with OpenClaw
 - **Community Platforms** - Building tools for IRL builder communities at Frontier Tower
 - **GPU Cloud Tooling** - Skills and deployment scripts for Nebius AI Cloud
