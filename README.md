@@ -16,19 +16,40 @@
 
 ## ⭐ Currently building
 
-- 🔌 **[claude-codex-nebius-proxy](https://github.com/opencolin/claude-codex-nebius-proxy)** — Claude Code + Codex CLI → Nebius bridge: converts `/v1/messages` & `/v1/responses` to OpenAI-compatible calls
-- 🧠 **[nebius-skill](https://github.com/opencolin/nebius-skill)** — Dual-compatible Claude Code + OpenClaw skill for managing Nebius AI Cloud via CLI
+- 💻 **[luxcode](https://github.com/opencolin/luxcode)** — Run Claude Code, Codex or any of 26 coding agents in a Luxor sandbox, one command away. [luxcode.org](https://luxcode.org)
+- 🥊 **[sandboxmaxxing](https://github.com/opencolin/sandboxmaxxing)** — Competing teams of AI coding agents in disposable cloud sandboxes — watch, steer, pick a winner. [sandboxmaxxing.com](https://sandboxmaxxing.com)
+- 📚 **[Tenki Cookbook](https://github.com/LuxorLabs/cookbook)** — Runnable examples for building on Tenki microVM sandboxes, every one verified in CI
+- 🧬 **[darwin](https://github.com/opencolin/darwin)** — Self-improving, safety-governed agent harness on MongoDB Atlas. [darwin.voyage](https://darwin.voyage)
+- 🌙 **[kimi-relay](https://github.com/opencolin/kimi-relay)** — Run Kimi K3 in Claude Code, Codex, OpenCode and Pi on Nebius Token Factory (EU hosting)
+- 🚲 **[GTA:BRC](https://github.com/opencolin/gta-brc)** — Top-down drive round Black Rock City with real sound-camp sets. [burningman.chat](https://burningman.chat)
 - 🔒 **[Moltypass](https://moltypass.app)** — Encrypted vault for AI API keys. Browser + terminal. Touch ID.
-- ✨ **[Superslide](https://superslide.fun)** — Drop your deck, get an interactive web slideshow. [live demo](https://superslide.fun/demo)
-- 🧳 **[ICE](https://github.com/opencolin/ice)** — Open-source collaborative IDE: humans + AI agents in one shared live workspace
 - 🤞 **[ClawCamp](https://claw.camp)** — Global network of AI builder camps: workshops, demo days, hackathons
-- 📡 **[Bastion](https://bastion-bice.vercel.app)** — Hardware-agnostic fleet control plane for live-event connectivity companies
-- ☕ **[The Coffee Table Book](https://thecoffeetablebook.org)** — Digital coffee table book on culture, science, and harm reduction
 
 ## 🚀 Projects
 
+### Tenki Sandboxes (Luxor)
+
+- 💻 **[luxcode](https://github.com/opencolin/luxcode)** - A coding agent in a Luxor sandbox, one command away: Claude Code, Codex or any of 26 agents in a box of its own. Close the laptop, pick it up from your phone. [luxcode.org](https://luxcode.org)
+- 🥊 **[sandboxmaxxing](https://github.com/opencolin/sandboxmaxxing)** - Run competing teams of AI coding agents in disposable cloud sandboxes — watch them live, steer mid-run, pick a winner, iterate. [sandboxmaxxing.com](https://sandboxmaxxing.com)
+- 📚 **[cookbook](https://github.com/LuxorLabs/cookbook)** - Runnable examples for building on Tenki — SWE-bench, RL rollouts, TRL GRPO, verifiers, OpenClaw, MCP, code-server, marimo and more
+- 🎨 **[tenki-studio](https://github.com/opencolin/tenki-studio)** - Canvas-first agent automation studio — build CrewAI crews visually and run each in a disposable Tenki sandbox
+- ▲ **[tenki-eve-sandbox](https://github.com/opencolin/tenki-eve-sandbox)** - Drop-in sandbox backend for Vercel eve agents on Tenki microVMs — ~2s boot, per-second billing
+- 🪶 **[hermes-tenki](https://github.com/opencolin/hermes-tenki)** - Hermes Agent + Tenki sandbox backend
+- 🏋️ **[nemo-gym-tenki](https://github.com/opencolin/nemo-gym-tenki)** - Tenki (Firecracker microVM) sandbox provider for NVIDIA NeMo Gym
+- 🦞 **[tenki-openclaw](https://github.com/LuxorLabs/tenki-openclaw)** - OpenClaw sandbox backend for Tenki Cloud VM sessions
+- 🔗 **[tenki-convex](https://github.com/LuxorLabs/tenki-convex)** · **[tenki-harbor](https://github.com/LuxorLabs/tenki-harbor)** · **[tenki-prefect](https://github.com/LuxorLabs/tenki-prefect)** · **[tenki-open-webui](https://github.com/LuxorLabs/tenki-open-webui)** · **[tenki-agentbox-provider](https://github.com/LuxorLabs/tenki-agentbox-provider)** · **[tenki-composio-tools](https://github.com/LuxorLabs/tenki-composio-tools)** · **[tenki-covalent-plugin](https://github.com/LuxorLabs/tenki-covalent-plugin)** - Tenki integrations for Convex, Harbor evals, Prefect, Open WebUI, AgentBox, Composio and Covalent
+- 🐋 **[orca-tenki-plugin](https://github.com/opencolin/orca-tenki-plugin)** - Plan for Tenki sandboxes in orca via environment recipes
+- 🎤 **[whisper-tenki](https://github.com/opencolin/whisper-tenki)** - Dictation-tolerance wrappers so voice-driven agents can say "tenki" any way they hear it
+
+### Upstream Contributions
+
+- 📖 **[openai/openai-cookbook](https://github.com/openai/openai-cookbook)** - Tenki sandbox examples for the Agents API
+- 🦥 **[unslothai/unsloth](https://github.com/unslothai/unsloth)** - Optional `LINUX_TEST_RUNNER` pool for CPU test jobs; prototype Tenki VM backend for Studio tools
+
 ### Core Infrastructure & Agents
 
+- 🧬 **[darwin](https://github.com/opencolin/darwin)** - Self-improving, safety-governed agent harness: a meta-agent patches the rulebook, promoted only if held-out pass rate rises with zero safety violations. [darwin.voyage](https://darwin.voyage)
+- 💸 **[muse-aisa-x402](https://github.com/opencolin/muse-aisa-x402)** - Muse pays AIsa APIs with USDC on Arc via Circle Agent Stack and x402
 - 🔒 **[moltypass](https://github.com/opencolin/moltypass)** - Encrypted vault for AI API keys. Browser + terminal. Touch ID. Capture straight from the provider’s console — no clipboard. [moltypass.app](https://moltypass.app)
 - 🧳 **[ice](https://github.com/opencolin/ice)** - Open-source collaborative IDE: humans + AI agents code together in one shared live workspace. Voice, chat, and its own git server. Self-hostable, Apache-2.0
 - 🏆 **[ensemble](https://github.com/opencolin/ensemble)** - ixio — coding-agent leaderboard (interface × compute). Aggregates public benchmarks + ConTree-sandbox runs. [ixio.com](https://ixio.com)
@@ -64,6 +85,10 @@
 
 ### Nebius AI Cloud
 
+- 🌙 **[kimi-relay](https://github.com/opencolin/kimi-relay)** - Run Kimi K3 in Claude Code, Codex, OpenCode and Pi on Nebius Token Factory (EU hosting) — one install. [kimiguide](https://kimiguide.vercel.app)
+- 🔌 **[kimi-proxy](https://github.com/opencolin/kimi-proxy)** - Claude Code + Codex on Kimi K3 via Token Factory, with observability dashboard, ensemble racing, statusline and Tavily web search
+- 🐝 **[token-factory-agent-swarm-workshop](https://github.com/opencolin/token-factory-agent-swarm-workshop)** - Workshop: build a multi-agent swarm on Token Factory, coordinated with Cotal
+- 💰 **[inference-pricing-comparison](https://github.com/opencolin/inference-pricing-comparison)** - DeepSeek V4 Flash inference cost at high throughput: Baseten vs Nebius Token Factory
 - 🔌 **[claude-codex-nebius-proxy](https://github.com/opencolin/claude-codex-nebius-proxy)** - Claude Code + Codex CLI → Nebius bridge: converts `/v1/messages` & `/v1/responses` to OpenAI-compatible calls, with server-side web search and model routing
 - 🧠 **[nebius-skill](https://github.com/opencolin/nebius-skill)** - Dual-compatible Claude Code + OpenClaw skill for managing Nebius AI Cloud via CLI
 - ☁️ **[NemoClaw-Cloud](https://github.com/opencolin/NemoClaw-Cloud)** - One-script setup: NemoClaw + Nemotron on Nebius GPU VMs
@@ -84,6 +109,12 @@
 
 ### Other Projects
 
+- 🚲 **[gta-brc](https://github.com/opencolin/gta-brc)** - GTA:BRC — a top-down drive round Black Rock City: bikes, art cars, real sound-camp sets, pager jobs and MOOP. [burningman.chat](https://burningman.chat)
+- 🌵 **[agave](https://github.com/opencolin/agave)** - Static clone of the Agave Lounge camp site. [agave-camp.vercel.app](https://agave-camp.vercel.app)
+- ☕ **[brewvenue](https://github.com/opencolin/brewvenue)** - Venue scouting HQ for the Builders & Brews: Hack Edition tour — 16 cities, vetted venues. [brewvenue.vercel.app](https://brewvenue.vercel.app)
+- 🌳 **[jardin-a-la-francaise](https://github.com/opencolin/jardin-a-la-francaise)** - A jardin à la française in Three.js — every plant individually grown. Also powers [jardinero-dev](https://github.com/opencolin/jardinero-dev)
+- 🔎 **[aisa-review](https://github.com/opencolin/aisa-review)** - Agent-readiness and visibility report for AIsa, with every recommendation tracked as an issue
+- 🎟️ **[aisa-credits](https://github.com/opencolin/aisa-credits)** - Event promo codes and landing pages for AIsa — budget-capped signup credits
 - 📡 **[Bastion](https://bastion-bice.vercel.app)** - Hardware-agnostic fleet control plane for event-connectivity companies — one screen across their Starlink, Peplink & Ubiquiti gear, remote access, and white-label SLA reports. Free multi-vendor monitoring + festival sibling [Playa Kit](https://playakit.vercel.app)
 - 🛠️ **[buildership](https://github.com/opencolin/buildership)** - BuilderShip — three-week AI hackathon culminating on the Dragon Lady. Marketing site + builder console + backend
 - 🎟️ **[luma-clone](https://github.com/opencolin/luma-clone)** - Open-source, self-hostable clone of Luma — event pages, RSVPs, calendars & discovery. Next.js 16 + Drizzle + libSQL
